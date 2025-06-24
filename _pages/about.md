@@ -58,6 +58,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
 
+<style>
+  .logo-row {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center;     /* 垂直居中（可选） */
+    gap: 20px;                 /* 图片之间的间距 */
+    margin: 20px 0;            /* 上下边距 */
+  }
+
+  .logo-row img {
+    height: 50px;              /* 控制 logo 高度，可根据需要调整 */
+  }
+
+  .site-footer {
+    text-align: center;        /* 页脚文字居中 */
+    padding: 20px;
+    background-color: #f8f8f8;
+    color: #666;
+  }
+</style>
+
 <div class="logo-row">
   <img src="../images/nku_logo.png" alt="NKU Logo">
   <img src="../images/ant_logo.png" alt="Ant Logo">

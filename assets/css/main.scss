@@ -108,21 +108,3 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.logo-row {
-    display: flex;
-    justify-content: center; /* 水平居中 */
-    align-items: center;     /* 垂直居中（可选） */
-    gap: 20px;                 /* 图片之间的间距 */
-    margin: 20px 0;            /* 上下边距 */
-  }
-  
-  .logo-row img {
-    height: 50px;              /* 控制 logo 高度，可根据需要调整 */
-  }
-  
-  .site-footer {
-    text-align: center;        /* 页脚文字居中 */
-    padding: 20px;
-    background-color: #f8f8f8;
-    color: #666;
-  }
