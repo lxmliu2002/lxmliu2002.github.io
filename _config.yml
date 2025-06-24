@@ -23,7 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "lxmliu2002"
   avatar           : "images/avatar.jpg"
-  bio              : "Nankai University \n Ant Group"
+  bio              : |
+                      Nankai University
+                      Ant Group
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 

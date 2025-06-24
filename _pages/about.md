@@ -68,7 +68,7 @@ I love **music, literature, travel and badminton**. I am a **campus singer** at 
   }
 
   .logo-row img {
-    height: 50px;              /* 控制 logo 高度，可根据需要调整 */
+    height: 100px;              /* 控制 logo 高度，可根据需要调整 */
   }
 
   .site-footer {
@@ -86,7 +86,7 @@ I love **music, literature, travel and badminton**. I am a **campus singer** at 
 </div>
 
 <footer class="site-footer">
-  <p>&copy; 2025 Xiuming Liu. All rights reserved.</p>
+  <p>&copy; 2025 <a href="https://github.com/lxmliu2002"  target="_blank" rel="noopener">Xiuming Liu</a>. All rights reserved.</p>
   <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io"  target="_blank" rel="noopener">Yi Ren</a>.
