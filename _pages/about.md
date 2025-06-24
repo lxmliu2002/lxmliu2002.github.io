@@ -58,19 +58,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
 
-
 <div class="logo-row">
-  <img src="../images/nku_logo.png"      alt="">
-  <img src="../images/ant_logo.png"  alt="">
-  <img src="../images/sjtu_logo.png"      alt="">
+  <img src="../images/nku_logo.png" alt="NKU Logo">
+  <img src="../images/ant_logo.png" alt="Ant Logo">
+  <img src="../images/sjtu_logo.png" alt="SJTU Logo">
 </div>
-
 
 <footer class="site-footer">
   <p>&copy; 2025 Xiuming Liu. All rights reserved.</p>
   <p>
     Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io"
-       target="_blank" rel="noopener">Yi Ren</a>.
+    <a href="https://github.com/RayeRen/acad-homepage.github.io"  target="_blank" rel="noopener">Yi Ren</a>.
   </p>
 </footer>
