@@ -28,6 +28,7 @@ My research aims to build safe, reliable, and transparent AI systems, with the g
 
 # 🔥 News
 *2025.06*: &nbsp;🎉🎉 Joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
+
 *2025.06*: &nbsp;🎉🎉 Obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
