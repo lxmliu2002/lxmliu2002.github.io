@@ -97,6 +97,25 @@ My primary research interests lie in the areas of **security for single-modal an
 
 My research aims to build safe, reliable, and transparent AI systems, with the goal of creating a more trustworthy AI environment that addresses pressing societal needs in privacy protection, decision-making transparency, and system robustness.
 
+You can contact me via the following emails:
+
+  - lxmliu2002 *[at]* 126.com
+
+  - lxmliu2002 *[at]* gmail.com
+
+  - lxmliu2002 *[at]* mail.nankai.edu.cn
+
+  - liuxiuming.lxm *[at]* antgroup.com
+
+<!-- 
+  - lxmliu2002 *[at]* 126 *[dot]* com
+
+  - lxmliu2002 *[at]* gmail *[dot]* com
+
+  - lxmliu2002 *[at]* mail *[dot]* nankai *[dot]* edu *[dot]* cn
+
+  - liuxiuming *[dot]* lxm *[at]* antgroup *[dot]* com -->
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
