@@ -91,7 +91,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello everyone, my name is Liu Xiuming. I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Wang Shuo](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181).
+Hello everyone, my name is Liu Xiuming. I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181).
 
 My primary research interests lie in the areas of **security for single-modal and multi-modal large models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
 
@@ -120,9 +120,10 @@ You can contact me via the following emails:
 
 
 # 🔥 News
-*2025.06*: &nbsp;🎉🎉 Joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
 
-*2025.06*: &nbsp;🎉🎉 Obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
+*2025.06*: &nbsp;🎉🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
+
+*2025.06*: &nbsp;🎉🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -156,6 +157,7 @@ You can contact me via the following emails:
   <ul style="margin-top: 0.5em; padding-left: 1.5em;">
     <li>Extract multi-granularity image features and combine them with a dedicated large language model to generate high-quality endoscopic imaging diagnostic reports, improving the semantic similarity of diagnostic reports by more than 20%.</li>
     <li>Based on PMC-CLIP, implement cross-modal image and text retrieval, fine-tune the model to adapt to downstream tasks, accurately match related cases, and improve retrieval accuracy by more than 30%.</li>
+    <li>Integration with the big voice model enables real-time transcription of the surgical process and automatic matching with images, helping doctors quickly select images and generate structured reports, significantly shortening writing time. The system can also automatically associate graphic content, build high-quality data sets, reduce manual annotation workload, and ultimately shorten the time it takes to write a diagnostic report from 5 minutes to less than 1 minute.</li>
   </ul>
 </div>
 
@@ -219,23 +221,34 @@ You can contact me via the following emails:
 
 # 🎖 Honors and Awards
 - *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
+
 - *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University
-- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship (the highest scholarship of Nankai University)
+
+- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University, 2 / 10 Students in Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)
+
 - *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship
-- *2024.12*: &nbsp;💰 National Scholarship
+
+- *2024.12*: &nbsp;💰 National Scholarship (Top 1%)
+
 - *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University
-- *2024.12*: &nbsp;💰 "Nine Five Core" Scholarship
+
+- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University (10 Students in Nankai University)
+
 - *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin
+
 - *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition
+
 - *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation
+
 - *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition
-- *2022.12*: &nbsp;💰 National Scholarship
+
+- *2022.12*: &nbsp;💰 National Scholarship (Top 1%)
 
 
 # 📖 Educations
 - *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
 
-  *- Bachelor of Information Security*
+  *- Bachelor of Information Security, Ranked 1st in the grade*
 
 
 # 💻 Internships
@@ -245,7 +258,7 @@ You can contact me via the following emails:
 
 - *2025.01 - 2025.06*, Wuxi Blockchain Advanced Research Center, Wuxi, China.
 
-  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Wang Shuo](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
+  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
 
 # 🪽 Beyond Academics
 
@@ -258,9 +271,10 @@ I like **music, billiards, traveling and badminton**. At the same time, I am als
 </div>
 
 <footer class="site-footer">
-  <p>&copy; 2025 <a href="https://github.com/lxmliu2002"  target="_blank" rel="noopener">Xiuming Liu</a>. All rights reserved.</p>
+  <p>&copy; 2025 <a href="https://github.com/lxmliu2002 " target="_blank" rel="noopener">Xiuming Liu</a>. All rights reserved.</p>
   <p>
     Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io"  target="_blank" rel="noopener">Yi Ren</a>.
+    <a href="https://github.com/RayeRen/acad-homepage.github.io " target="_blank" rel="noopener">Yi Ren</a>.
   </p>
+  <p>Last modified: <time datetime="2025-04-05">April 5, 2025</time></p>
 </footer>
