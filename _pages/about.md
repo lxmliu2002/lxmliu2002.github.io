@@ -91,7 +91,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello everyone, my name is Liu Xiuming. I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181).
+Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181).
 
 My primary research interests lie in the areas of **security for single-modal and multi-modal large models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
 
@@ -224,7 +224,7 @@ You can contact me via the following emails:
 
 - *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University
 
-- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University, 2 / 10 Students in Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)
+- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)
 
 - *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship
 
@@ -271,10 +271,10 @@ I like **music, billiards, traveling and badminton**. At the same time, I am als
 </div>
 
 <footer class="site-footer">
-  <p>&copy; 2025 <a href="https://github.com/lxmliu2002 " target="_blank" rel="noopener">Xiuming Liu</a>. All rights reserved.</p>
+  <p>&copy; 2025 <a href="https://github.com/lxmliu2002 " target="_blank" rel="noopener">Xiuming Liu</a> all rights reserved</p>
   <p>
     Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io " target="_blank" rel="noopener">Yi Ren</a>.
+    <a href="https://github.com/RayeRen/acad-homepage.github.io " target="_blank" rel="noopener">Yi Ren</a>
   </p>
   <p>Last modified: <time datetime="2025-04-05">July 15, 2025</time></p>
 </footer>
