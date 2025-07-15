@@ -276,5 +276,5 @@ I like **music, billiards, traveling and badminton**. At the same time, I am als
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io " target="_blank" rel="noopener">Yi Ren</a>.
   </p>
-  <p>Last modified: <time datetime="2025-04-05">April 5, 2025</time></p>
+  <p>Last modified: <time datetime="2025-04-05">July 15, 2025</time></p>
 </footer>
