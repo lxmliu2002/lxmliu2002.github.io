@@ -3,7 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-lang: en
 redirect_from: 
   - /about/
   - /about.html
@@ -221,7 +220,6 @@ You can contact me via the following emails:
 </div>
 
 # 🎖 Honors and Awards
-
 - *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
 
 - *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University
@@ -248,14 +246,12 @@ You can contact me via the following emails:
 
 
 # 📖 Educations
-
 - *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
 
   *- Bachelor of Information Security, Ranked 1st in the grade*
 
 
 # 💻 Internships
-
 - *2025.06 - 2025.09 (now)*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
   *- Lab: [Cryptology Lab](https://antcplab.github.io/), Supervisor: Zhicong Huang*
