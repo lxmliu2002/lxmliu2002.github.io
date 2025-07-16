@@ -1,24 +1,26 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        {% assign current_lang = page.lang | default: 'en' %}
-        {% if current_lang == 'zh' %}
-          {% assign nav = site.data['navigation.zh'].main %}
-        {% else %}
-          {% assign nav = site.data.navigation.main %}
-        {% endif %}
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="{% if current_lang == 'zh' %}/zh/#about{% else %}/#about{% endif %}">{% if current_lang == 'zh' %}主页{% else %}Homepage{% endif %}</a>
-          </li>
-          {% for link in nav %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <button id="lang-switch-btn" style="margin-left: 1em; padding: 0.3em 0.8em; border-radius: 4px; border: 1px solid #ccc; background: #fff; cursor: pointer;">{% if current_lang == 'zh' %}EN{% else %}中文{% endif %}</button>
-        <ul class="hidden-links hidden"></ul>
+      <nav id="site-nav" class="greedy-nav" style="display: flex; align-items: center; justify-content: space-between;">
+        <div style="display: flex; align-items: center; flex: 1;">
+          <button><div class="navicon"></div></button>
+          {% assign current_lang = page.lang | default: 'en' %}
+          {% if current_lang == 'zh' %}
+            {% assign nav = site.data['navigation.zh'].main %}
+          {% else %}
+            {% assign nav = site.data.navigation.main %}
+          {% endif %}
+          <ul class="visible-links">
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+              <a href="{% if current_lang == 'zh' %}/zh/#about{% else %}/#about{% endif %}">{% if current_lang == 'zh' %}主页{% else %}Homepage{% endif %}</a>
+            </li>
+            {% for link in nav %}
+              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+          <ul class="hidden-links hidden"></ul>
+        </div>
+        <button id="lang-switch-btn" style="margin-left: 1.5em; padding: 0.3em 0.8em; border-radius: 4px; border: 1px solid #ccc; background: #fff; cursor: pointer; white-space: nowrap;">{% if current_lang == 'zh' %}EN{% else %}中文{% endif %}</button>
       </nav>
     </div>
   </div>
