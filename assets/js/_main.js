@@ -95,4 +95,14 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // 语言切换按钮事件
+  $('#lang-switch-btn').on('click', function() {
+    var path = window.location.pathname;
+    if (path.startsWith('/zh/')) {
+      window.location.href = path.replace('/zh/', '/');
+    } else {
+      window.location.href = '/zh/';
+    }
+  });
+
 });
