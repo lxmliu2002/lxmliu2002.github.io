@@ -113,10 +113,14 @@ You can contact me via the following emails:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+*2025.07*: &nbsp;🎉🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference.
+
+*2025.06*: &nbsp;🎉🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
+
+*2025.06*: &nbsp;🎉🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
+
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -130,19 +134,141 @@ You can contact me via the following emails:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+# ⚙️ Projects
+
+<div class="project">
+  <div class="project-header">
+    <div>
+      <span class="project-title">“Mingqi” Medical Imaging Large Model Matrix</span>
+      <span class="project-role">Subproject Leader</span>
+    </div>
+    <span class="project-time">2024.12 – Present</span>
+  </div>
+  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Extract multi-granularity image features and combine them with a dedicated large language model to generate high-quality endoscopic imaging diagnostic reports, improving the semantic similarity of diagnostic reports by more than 20%.</li>
+    <li>Based on PMC-CLIP, implement cross-modal image and text retrieval, fine-tune the model to adapt to downstream tasks, accurately match related cases, and improve retrieval accuracy by more than 30%.</li>
+    <li>Integration with the big voice model enables real-time transcription of the surgical process and automatic matching with images, helping doctors quickly select images and generate structured reports, significantly shortening writing time. The system can also automatically associate graphic content, build high-quality data sets, reduce manual annotation workload, and ultimately shorten the time it takes to write a diagnostic report from 5 minutes to less than 1 minute.</li>
+  </ul>
+</div>
+
+
+<div class="project">
+  <div class="project-header">
+    <div>
+      <span class="project-title">T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies</span>
+      <span class="project-role">Team Member</span>
+    </div>
+    <span class="project-time">2024.09 – 2024.10</span>
+  </div>
+  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Identified potential vulnerabilities in T2I models using multi-level attack strategies, optimizing attack effectiveness from a "zero-sum game" perspective to deeply explore security weaknesses.</li>
+    <li>Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.</li>
+  </ul>
+</div>
+
+<div class="project">
+  <div class="project-header">
+    <div>
+      <span class="project-title">Web3_MLM</span>
+      <span class="project-role">Team Member</span>
+    </div>
+    <span class="project-time">2024.01 – 2024.04</span>
+  </div>
+  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Supervisor: <strong><a href="https://netsec.ccert.edu.cn/chs/people/chaoz/"  target="_blank" rel="noopener noreferrer">Chao Zhang</a></strong>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University</li>
+    <li>Web3_MLM is a subset of the <strong><a href="https://mlm01.com"  target="_blank" rel="noopener noreferrer">MLM</a></strong>  project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li>
+    <li>Constructed a high-quality, comprehensive dataset containing Solidity source code, assembly code, and bytecode; performed data augmentation and aligned data formats at both contract-level and function-level granularity.</li>
+  </ul>
+</div>
+
+<div class="project">
+  <div class="project-header">
+    <div>
+      <span class="project-title">SysY Language Compiler</span>
+      <span class="project-role">Team Member</span>
+    </div>
+    <span class="project-time">2023.10 – 2024.01</span>
+  </div>
+  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Built a compiler from SysY language to ARM assembly using C++ based on a provided framework.</li>
+    <li>Performed lexical analysis using Flex, syntactic analysis using Yacc, and control flow translation using backpatching; implemented optimizations including common subexpression elimination and dead code removal.</li>
+  </ul>
+</div>
+
+<div class="project">
+  <div class="project-header">
+    <div>
+      <span class="project-title">JingZhiYao: A Blockchain-Based Scheme for Precise Rumor Refutation and Traceability</span>
+      <span class="project-role">Team Member</span>
+    </div>
+    <span class="project-time">2023.05 - 2023.07</span>
+  </div>
+  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <li>Designed a cross-platform rumor governance scheme leveraging blockchain technology, aiming to optimize key stages in rumor management including rumor identification, precise refutation, and traceability for accountability.</li>
+    <li>Responsible for the design and implementation of the database, as well as backend database integration; achieved secure data upload, encryption, storage, and smart contract-based retrieval for message matching, verification, and filtering, supporting information traceability and evidence preservation.</li>
+  </ul>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
+
+- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University
+
+- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)
+
+- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship
+
+- *2024.12*: &nbsp;💰 National Scholarship (Top 1%)
+
+- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University
+
+- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University (10 Students in Nankai University)
+
+- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin
+
+- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition
+
+- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation
+
+- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition
+
+- *2022.12*: &nbsp;💰 National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  *- Bachelor of Information Security, Ranked 1st in the grade*
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.06 - 2025.09 (now)*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
+
+  *- Lab: [Cryptology Lab](https://antcplab.github.io/), Supervisor: Zhicong Huang*
+
+- *2025.01 - 2025.06*, Wuxi Blockchain Advanced Research Center, Wuxi, China.
+
+  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
+
+# 🪽 Beyond Academics
+
+I like **music, billiards, traveling and badminton**. At the same time, I am also keen to try various positions of student work. I am a **warm-hearted person**. If you encounter any problems, you can always come to me and I will do my best to help you.
+
+
+<div class="logo-row">
+  <img src="../images/nku_logo.png" alt="NKU Logo">
+  <img src="../images/ant_logo.png" alt="Ant Logo">
+  <img src="../images/sjtu_logo.png" alt="SJTU Logo">
+</div>
+
+<footer class="site-footer">
+  <p>&copy; 2025 <a href="https://github.com/lxmliu2002 " target="_blank" rel="noopener">Xiuming Liu</a> all rights reserved</p>
+  <p>
+    Template adapted from
+    <a href="https://github.com/RayeRen/acad-homepage.github.io " target="_blank" rel="noopener">Yi Ren</a>
+  </p>
+  <p>Last modified: <time datetime="2025-04-05">July 15, 2025</time></p>
+</footer>
