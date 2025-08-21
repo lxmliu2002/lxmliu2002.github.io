@@ -12,7 +12,7 @@ repository               : "lxmliu2002/lxmliu2002.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : 12057557943 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -27,7 +27,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "lxmliu2002@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 刘修铭 # e.g., "linkedin username"
+  linkedin         : 修铭-刘-8a69a12b2 # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0006-3638-479X" # e.g., "https://orcid.org/xxxx"
   pinterest        :
