@@ -1,7 +1,7 @@
 # This is my personal homepage！
 
 <p align="center">
-  🌍 Languages: [🇨🇳 简体中文](./docs/README.zh-CN.md) | 🇺🇸 English
+  🌍 Languages: [🇨🇳 简体中文](https://github.com/lxmliu2002/lxmliu2002.github.io/tree/main/docs/README.zh-CN.md) | 🇺🇸 English
 </p>
 
 ## Quick Start

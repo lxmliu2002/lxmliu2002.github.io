@@ -1,7 +1,7 @@
 # 这是我的个人主页！
 
 <div align="center">
-  🌍 [🇺🇸 English](../README.md) | 🇨🇳 简体中文
+  🌍 [🇺🇸 English](https://github.com/lxmliu2002/lxmliu2002.github.io/tree/main/README.md) | 🇨🇳 简体中文
 </div>
 
 
