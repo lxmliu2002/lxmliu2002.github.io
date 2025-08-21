@@ -1,8 +1,6 @@
 # 这是我的个人主页！
 
-<div align="center">
-  🌍 [🇺🇸 English](https://github.com/lxmliu2002/lxmliu2002.github.io/tree/main/README.md) | 🇨🇳 简体中文
-</div>
+[🇺🇸 English](https://github.com/lxmliu2002/lxmliu2002.github.io/tree/main/README.md) | 🇨🇳 简体中文
 
 
 ## 主要特点
