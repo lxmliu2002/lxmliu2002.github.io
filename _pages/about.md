@@ -15,11 +15,101 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<style>
+  .badge {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+</style>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<style>
+  .logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem; 
+  }
+  .logo-row img {
+    height: 100px;
+    width: auto;
+    /* 
+       border-radius: 6px;
+       box-shadow: 0 0 6px rgba(0,0,0,.15); */
+  }
+</style>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<style>
+  .site-footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: rgb(128, 128, 128);
+    margin: 2rem 0 1rem; 
+  }
+  .site-footer a {
+    color: inherit;
+    text-decoration: underline;
+  }
+</style>
+
+<style>
+.project {
+  margin-bottom: 2em;
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.project-title {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.project-role {
+  background-color: #d4edda; /* 浅绿色背景 */
+  color: #155724;
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  margin-left: 1em;
+  white-space: nowrap;
+  font-size: 0.9em;
+}
+
+.project-time {
+  background-color: #e2e3e5; /* 浅灰色背景 */
+  color: #383d41;
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+</style>
+
+<span class='anchor' id='about'></span>
+
+Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181).
+
+My primary research interests lie in the areas of **security for single-modal and multi-modal large models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
+
+My research aims to build safe, reliable, and transparent AI systems, with the goal of creating a more trustworthy AI environment that addresses pressing societal needs in privacy protection, decision-making transparency, and system robustness.
+
+You can contact me via the following emails:
+
+  - lxmliu2002 *[at]* 126.com
+
+  - lxmliu2002 *[at]* gmail.com
+
+  - lxmliu2002 *[at]* mail.nankai.edu.cn
+
+  - liuxiuming.lxm *[at]* antgroup.com
+
+  - liuxiuming.lxm *[at]* sjtu.edu.cn
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News

@@ -1,29 +1,9 @@
-
-<h1 align="center">
-AcadHomepage
-</h1>
+# 这是我的个人主页！
 
 <div align="center">
-
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](../README.md) 
-
+  🌍 [🇺🇸 English](../README.md) | 🇨🇳 简体中文
 </div>
 
-<p align="center">一个现代、响应式的个人学术主页</p>
-
-
-<p align="center">
-    <br>
-    <img src="./screenshot.png" width="100%"/>
-    <br>
-</p>
-
-一些例子：
-- [样例页面](https://rayeren.github.io/acad-homepage.github.io/)
-- [作者的个人主页](https://rayeren.github.io/)
 
 ## 主要特点
 - **自动更新谷歌学术引用**: 借助谷歌学术爬虫和github action功能，本仓库可以自动更新作者的引用数和论文引用数。
@@ -65,3 +45,10 @@ AcadHomepage
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+
+## 致谢
+
+- AcadHomepage 采用了 Font Awesome，其分发遵循 SIL OFL 1.1 和 MIT 许可证。
+- AcadHomepage 受到 GitHub 项目 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 的影响，该项目遵循 MIT 许可证分发。
+- AcadHomepage 受到 GitHub 项目 [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) 的启发，该项目遵循 MIT 许可证分发。
+- AcadHomepage 在开发与部署过程中，参考并受益于阿里巴巴云研发的[通义千问（Qwen）](https://chat.qwen.ai/)大模型提供的技术解答与思路启发，在此表示诚挚感谢。
