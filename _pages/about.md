@@ -370,8 +370,7 @@ You can contact me via the following emails:
 
 
 # 🎖 Honors and Awards
-- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development
-  ，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
+- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
 
 - *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
 
