@@ -274,7 +274,7 @@ You can contact me via the following emails:
   <div class='paper-box-image'>
     <div>
       <div class="badge">SysY-to-ARM</div>
-      <img src='images/projects/sysy_arm.png' alt="SysY-to-ARM Compiler" width="100%">
+      <img src='images/projects/sysy.png' alt="SysY-to-ARM Compiler" width="100%">
     </div>
   </div>
 
@@ -297,7 +297,7 @@ You can contact me via the following emails:
   <div class='paper-box-image'>
     <div>
       <div class="badge">CodeHint</div>
-      <img src='images/projects/codehint.png' alt="Python Code Completion with Neo4j" width="100%">
+      <img src='images/projects/python.png' alt="Python Code Completion with Neo4j" width="100%">
     </div>
   </div>
 
