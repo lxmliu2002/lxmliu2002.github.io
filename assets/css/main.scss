@@ -91,16 +91,17 @@
     /* 可选：两个标签之间加点间距 */
     .paper-box-text > p:nth-child(2) {
         display: flex;
-        justify-content: space-between; // 主轴两端对齐
+        justify-content: space-between; // 左右分离的关键
         align-items: center;
         margin-bottom: 0.5em;
-        gap: 1em; // 增加一点间隙更美观
-        flex-wrap: wrap; // 允许换行
+        gap: 1em; // 可选：防止太挤
+        min-height: 1.2em; // 保持行高一致（可选）
 
-        // 防止在小屏幕上 badge 被挤压
+        // 确保 badge 不拉伸，只包裹内容
         .paper-role-badge,
         .paper-time-badge {
-            flex: 1 1 100px; // 最小宽度约 100px，可伸缩
+            flex: 0 0 auto; // 不增长、不缩小、自动宽度（关键）
+            white-space: nowrap; // 防止文字换行
         }
     }
     
