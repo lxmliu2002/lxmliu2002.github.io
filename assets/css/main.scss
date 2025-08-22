@@ -90,12 +90,18 @@
 
     /* 可选：两个标签之间加点间距 */
     .paper-box-text > p:nth-child(2) {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 0.5em;
-    gap: 0.5em;
-    flex-wrap: wrap;
+        display: flex;
+        justify-content: space-between; // 主轴两端对齐
+        align-items: center;
+        margin-bottom: 0.5em;
+        gap: 1em; // 增加一点间隙更美观
+        flex-wrap: wrap; // 允许换行
+
+        // 防止在小屏幕上 badge 被挤压
+        .paper-role-badge,
+        .paper-time-badge {
+            flex: 1 1 100px; // 最小宽度约 100px，可伸缩
+        }
     }
     
     @include breakpoint($medium) {
