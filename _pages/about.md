@@ -139,14 +139,13 @@ You can contact me via the following emails:
 
 # ⚙️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Game Dev</div><img src='images/projects/mingqi.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mingqi</div><img src='images/projects/mingqi.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WAVE ADN WAVE - 2D Vector Shooting Game](https://www.bilibili.com/video/BV1Uc411P7bQ/?spm_id_from=333.337.search-card.all.click&vd_source=00d5db08dc38a71784409aafec78f52c)
+[“Mingqi” Medical Imaging Large Model Matrix](http://mingqi.sh.cn/)
 
-**Subproject Leader** | *2024.12 – Present*
+**Subproject Leader** | *Dec 2024 – Present*
 
-<!-- [**Demo Video**](https://www.bilibili.com/video/BV1Uc411P7bQ) -->
 - Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.
 - Enhanced cross-modal image-text retr. via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.
 - Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.
@@ -154,35 +153,47 @@ You can contact me via the following emails:
 </div>
 </div>
 
-<div class="project">
-  <div class="project-header">
+<div class='paper-box'>
+  <!-- 左侧图片区域 -->
+  <div class='paper-box-image'>
     <div>
-      <span class="project-title">“Mingqi” Medical Imaging Large Model Matrix</span>
-      <span class="project-role">Subproject Leader</span>
+      <div class="badge">Mingqi</div>
+      <img src='images/projects/mingqi.svg' alt="Mingqi" width="100%">
     </div>
-    <span class="project-time">2024.12 – Present</span>
   </div>
-  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li>Extract multi-granularity image features and combine them with a dedicated large language model to generate high-quality endoscopic imaging diagnostic reports, improving the semantic similarity of diagnostic reports by more than 20%.</li>
-    <li>Based on PMC-CLIP, implement cross-modal image and text retrieval, fine-tune the model to adapt to downstream tasks, accurately match related cases, and improve retrieval accuracy by more than 30%.</li>
-    <li>Integration with the big voice model enables real-time transcription of the surgical process and automatic matching with images, helping doctors quickly select images and generate structured reports, significantly shortening writing time. The system can also automatically associate graphic content, build high-quality data sets, reduce manual annotation workload, and ultimately shorten the time it takes to write a diagnostic report from 5 minutes to less than 1 minute.</li>
-  </ul>
+
+  <!-- 右侧文字区域 -->
+  <div class='paper-box-text' markdown="1">
+    <p>
+      <a href="http://mingqi.sh.cn/" target="_blank" rel="noopener"><strong>“Mingqi” Medical Imaging Large Model Matrix</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Subproject Leader</span>
+      <span class="paper-time-badge">Dec 2024 – Present</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.</li>
+      <li>Enhanced cross-modal image-text retrieval via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.</li>
+      <li>Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.</li>
+      <li>Recognized as one of the Top 10 AI Application Scenarios at the 2nd Belt and Road Sci-Tech Exchange Conference; awarded Top 10 Outstanding Cases of AI for Sustainable Development.</li>
+    </ul>
+  </div>
 </div>
 
 
-<div class="project">
-  <div class="project-header">
-    <div>
-      <span class="project-title">T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies</span>
-      <span class="project-role">Team Member</span>
-    </div>
-    <span class="project-time">2024.09 – 2024.10</span>
-  </div>
-  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li>Identified potential vulnerabilities in T2I models using multi-level attack strategies, optimizing attack effectiveness from a "zero-sum game" perspective to deeply explore security weaknesses.</li>
-    <li>Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.</li>
-  </ul>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T2I-Fuzzer</div><img src='images/projects/t2i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies](https://tianchi.aliyun.com/competition/entrance/532268)
+
+**Key Team Member** | *Sep 2024 -- Oct 2024*
+
+- Designed multi-level attack strategies to expose vulnerabilities in T2I models, optimizing adversarial efficacy from a zero-sum game perspective.
+- Implemented a unified attack and evaluation framework, enabling efficient and stealthy rewriting of harmful prompts to bypass safety filters in T2I systems.
+- Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.
 </div>
+</div>
+
 
 <div class="project">
   <div class="project-header">

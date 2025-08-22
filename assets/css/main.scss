@@ -67,6 +67,35 @@
         order: 1;
     }
     
+    /* 自定义 paper-box 内的标签样式 */
+    .paper-role-badge {
+    background-color: #d4edda; /* 浅绿色 */
+    color: #155724;
+    padding: 0.2em 0.6em;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: normal;
+    white-space: nowrap;
+    }
+
+    .paper-time-badge {
+    background-color: #e2e3e5; /* 浅灰色 */
+    color: #383d41;
+    padding: 0.2em 0.6em;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: normal;
+    white-space: nowrap;
+    }
+
+    /* 可选：两个标签之间加点间距 */
+    .paper-box-text > p:nth-child(2) {
+    margin-bottom: 0.5em;
+    display: flex;
+    gap: 0.5em;
+    flex-wrap: wrap;
+    }
+    
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
