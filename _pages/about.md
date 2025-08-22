@@ -117,6 +117,8 @@ You can contact me via the following emails:
 
 # 🔥 News
 
+<span class='anchor' id='news'></span>
+
 *2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
 *2025.08*: &nbsp;🎉🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
@@ -128,6 +130,8 @@ You can contact me via the following emails:
 *2025.06*: &nbsp;🎉🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
 <!-- # 📝 Publications 
+
+<span class='anchor' id='publications'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -146,7 +150,7 @@ You can contact me via the following emails:
 
 # ⚙️ Projects
 
-
+<span class='anchor' id='projects'></span>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -370,6 +374,9 @@ You can contact me via the following emails:
 
 
 # 🎖 Honors and Awards
+
+<span class='anchor' id='honors-and-awards'></span>
+
 - *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
 
 - *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
@@ -397,6 +404,9 @@ You can contact me via the following emails:
 - *2022.12*: &nbsp;💰 National Scholarship (Top 1%)
 
 # 📖 Educations
+
+<span class='anchor' id='educations'></span>
+
 - *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
 
   *- Bachelor of Information Security, Ranked 1st in the grade*
@@ -409,6 +419,9 @@ You can contact me via the following emails:
 
 
 # 💻 Internships
+
+<span class='anchor' id='internships'></span>
+
 - *2025.06 - 2025.09 (now)*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
   *- Lab: [Cryptology Lab](https://antcplab.github.io/), Supervisor: Zhicong Huang*
@@ -418,6 +431,8 @@ You can contact me via the following emails:
   *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181), [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191)*
 
 # 🪽 Beyond Academics
+
+<span class='anchor' id='beyond-academics'></span>
 
 I like **music, billiards, traveling and badminton**. At the same time, I am also keen to try various positions of student work. I am a **warm-hearted person**. If you encounter any problems, you can always come to me and I will do my best to help you.
 
