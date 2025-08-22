@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <style>
   .badge {
@@ -91,7 +91,10 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181).
+Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181) and Assistant Researcher [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191).
+
+I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
+
 
 My primary research interests lie in the areas of **security for single-modal and multi-modal large models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
 
@@ -113,6 +116,10 @@ You can contact me via the following emails:
 
 
 # 🔥 News
+
+*2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
+
+*2025.08*: &nbsp;🎉🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
 *2025.07*: &nbsp;🎉🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference.
 
@@ -139,22 +146,9 @@ You can contact me via the following emails:
 
 # ⚙️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mingqi</div><img src='images/projects/mingqi.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[“Mingqi” Medical Imaging Large Model Matrix](http://mingqi.sh.cn/)
-
-**Subproject Leader** | *Dec 2024 – Present*
-
-- Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.
-- Enhanced cross-modal image-text retr. via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.
-- Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.
-- Recognized as one of the Top 10 AI Application Scenarios at the 2nd Belt and Road Sci-Tech Exchange Conference; awarded Top 10 Outstanding Cases of AI for Sustainable Development.
-</div>
-</div>
 
 <div class='paper-box'>
-  <!-- 左侧图片区域 -->
   <div class='paper-box-image'>
     <div>
       <div class="badge">Mingqi</div>
@@ -162,8 +156,6 @@ You can contact me via the following emails:
     </div>
   </div>
 
-  <!-- 右侧文字区域 -->
-  <!-- <div class='paper-box-text' markdown="1"> -->
   <div class='paper-box-text'>
     <p>
       <a href="http://mingqi.sh.cn/" target="_blank" rel="noopener"><strong>“Mingqi” Medical Imaging Large Model Matrix</strong></a>
@@ -181,67 +173,206 @@ You can contact me via the following emails:
   </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T2I-Fuzzer</div><img src='images/projects/t2i.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies](https://tianchi.aliyun.com/competition/entrance/532268)
-
-**Key Team Member** | *Sep 2024 -- Oct 2024*
-
-- Designed multi-level attack strategies to expose vulnerabilities in T2I models, optimizing adversarial efficacy from a zero-sum game perspective.
-- Implemented a unified attack and evaluation framework, enabling efficient and stealthy rewriting of harmful prompts to bypass safety filters in T2I systems.
-- Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.
-</div>
-</div>
-
-
-<div class="project">
-  <div class="project-header">
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div>
-      <span class="project-title">Web3_MLM</span>
-      <span class="project-role">Team Member</span>
+      <div class="badge">ArXivToday</div>
+      <img src='images/projects/arxiv.png' alt="ArXivToday-Lark" width="100%">
     </div>
-    <span class="project-time">2024.01 – 2024.04</span>
   </div>
-  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li>Supervisor: <strong><a href="https://netsec.ccert.edu.cn/chs/people/chaoz/"  target="_blank" rel="noopener noreferrer">Chao Zhang</a></strong>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University</li>
-    <li>Web3_MLM is a subset of the <strong><a href="https://mlm01.com"  target="_blank" rel="noopener noreferrer">MLM</a></strong>  project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li>
-    <li>Constructed a high-quality, comprehensive dataset containing Solidity source code, assembly code, and bytecode; performed data augmentation and aligned data formats at both contract-level and function-level granularity.</li>
-  </ul>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://github.com/InfinityUniverse0/ArXivToday-Lark" target="_blank" rel="noopener"><strong>ArXivToday-Lark: Automated arXiv Paper Delivery for Lark Teams</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Key Team Member</span>
+      <span class="paper-time-badge">Mar 2025 – Mar 2025</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Developed a lightweight automation tool that fetches the latest arXiv papers daily and delivers them directly to Lark group chats via a custom bot, streamlining research discovery for academic teams.</li>
+      <li>Features include scheduled fetching, customizable topic filters, LLM-powered paper summarization and translation, and influence prediction (in development).</li>
+      <li>Designed for extensibility—supports integration with other messaging platforms and backend enhancements for intelligent paper recommendation.</li>
+    </ul>
+  </div>
 </div>
 
-<div class="project">
-  <div class="project-header">
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div>
-      <span class="project-title">SysY Language Compiler</span>
-      <span class="project-role">Team Member</span>
+      <div class="badge">T2I-Fuzzer</div>
+      <img src='images/projects/t2i.png' alt="T2I-Fuzzer" width="100%">
     </div>
-    <span class="project-time">2023.10 – 2024.01</span>
   </div>
-  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li>Built a compiler from SysY language to ARM assembly using C++ based on a provided framework.</li>
-    <li>Performed lexical analysis using Flex, syntactic analysis using Yacc, and control flow translation using backpatching; implemented optimizations including common subexpression elimination and dead code removal.</li>
-  </ul>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://tianchi.aliyun.com/competition/entrance/532268" target="_blank" rel="noopener"><strong>T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Key Team Member</span>
+      <span class="paper-time-badge">Sep 2024 – Oct 2024</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Designed multi-level attack strategies to expose vulnerabilities in T2I models, optimizing adversarial efficacy from a zero-sum game perspective.</li>
+      <li>Implemented a unified attack and evaluation framework, enabling efficient and stealthy rewriting of harmful prompts to bypass safety filters in T2I systems.</li>
+      <li>Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.</li>
+    </ul>
+  </div>
 </div>
 
-<div class="project">
-  <div class="project-header">
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div>
-      <span class="project-title">JingZhiYao: A Blockchain-Based Scheme for Precise Rumor Refutation and Traceability</span>
-      <span class="project-role">Team Member</span>
+      <div class="badge">Web3_MLM</div>
+      <img src='images/projects/mlm.png' alt="Web3_MLM" width="100%">
     </div>
-    <span class="project-time">2023.05 - 2023.07</span>
   </div>
-  <ul style="margin-top: 0.5em; padding-left: 1.5em;">
-    <li>Designed a cross-platform rumor governance scheme leveraging blockchain technology, aiming to optimize key stages in rumor management including rumor identification, precise refutation, and traceability for accountability.</li>
-    <li>Responsible for the design and implementation of the database, as well as backend database integration; achieved secure data upload, encryption, storage, and smart contract-based retrieval for message matching, verification, and filtering, supporting information traceability and evidence preservation.</li>
-  </ul>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://mlm01.com" target="_blank" rel="noopener"><strong>Web3_MLM: Intelligent Reverse Analysis for Solidity Smart Contracts</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Member</span>
+      <span class="paper-time-badge">Jan 2024 – Apr 2024</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Supervisor: <strong><a href="https://netsec.ccert.edu.cn/chs/people/chaoz/" target="_blank" rel="noopener noreferrer">Chao Zhang</a></strong>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University</li>
+      <li>Web3_MLM is a subset of the <strong><a href="https://mlm01.com" target="_blank" rel="noopener noreferrer">MLM</a></strong> project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li>
+      <li>Constructed a high-quality, comprehensive dataset containing Solidity source code, assembly code, and bytecode; performed data augmentation and aligned data formats at both contract-level and function-level granularity.</li>
+    </ul>
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RMDB</div>
+      <img src='images/projects/RMDB.jpg' alt="RMDB" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <strong>RMDB: Database Management System for the National Contest on System Capacity</strong>
+    </p>
+    <p>
+      <span class="paper-role-badge">Key Team Member</span>
+      <span class="paper-time-badge">May 2024 – Aug 2024</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Enhanced a database management system within a given framework to support MySQL-like SQL functionalities.</li>
+      <li>Implemented storage management module, contributing to over 35% of the team's completed tasks in the preliminary round.</li>
+      <li>Participated in optimizing the <code>COUNT(*)</code> etc. query, achieving approximately 10% performance improvement.</li>
+    </ul>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SysY-to-ARM</div>
+      <img src='images/projects/sysy_arm.png' alt="SysY-to-ARM Compiler" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://github.com/lxmliu2002/Principles_of_Compilation_Systems" target="_blank" rel="noopener"><strong>SysY-to-ARM Compiler</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Header</span>
+      <span class="paper-time-badge">Oct 2023 – Jan 2024</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Developed a compiler from SysY (educational language) to ARM assembly in C++, covering full compilation pipeline.</li>
+      <li>Implemented lexing (Flex), parsing (Yacc), backpatching-based control flow translation, and optimizations (CSE, DCE).</li>
+    </ul>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CodeHint</div>
+      <img src='images/projects/codehint.png' alt="Python Code Completion with Neo4j" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://github.com/lxmliu2002/ZRGJ2023" target="_blank" rel="noopener"><strong>Python Code Completion System Based on Neo4j Graph Database</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Member</span>
+      <span class="paper-time-badge">Jul 2023 – Aug 2023</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Developed a context-aware Python code completion system using Neo4j as a graph database to infer variable types, addressing the lack of built-in type hinting in standard Python interpreters.</li>
+      <li>Responsible for syntactic analysis of input code and querying the graph database; implemented path traversal logic to retrieve successor nodes, perform type inference, and return results to the frontend.</li>
+      <li>Designed with extensibility in mind—can be adapted into a VS Code extension for real-time intelligent code suggestions.</li>
+    </ul>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">JingZhiYao</div>
+      <img src='images/projects/jingzhiyao.png' alt="JingZhiYao" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <strong>JingZhiYao: A Blockchain-Based Scheme for Precise Rumor Refutation and Traceability</strong>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Member</span>
+      <span class="paper-time-badge">May 2023 – Jul 2023</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Designed a cross-platform rumor governance scheme leveraging blockchain technology, aiming to optimize key stages in rumor management including rumor identification, precise refutation, and traceability for accountability.</li>
+      <li>Responsible for the design and implementation of the database, as well as backend database integration; achieved secure data upload, encryption, storage, and smart contract-based retrieval for message matching, verification, and filtering, supporting information traceability and evidence preservation.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Zouma</div>
+      <img src='images/projects/zouma.png' alt="Zouma Game" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://github.com/lxmliu2002/Zouma" target="_blank" rel="noopener"><strong>Zouma: A C++ Graphical Game with Winter Olympics Theme</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Course Project</span>
+      <span class="paper-time-badge">Apr 2022 – May 2022</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Developed a Zouma-style puzzle game in C++ using the EasyX graphics library, featuring a custom game loop, path-based ball movement, and interactive cannon control with real-time mouse tracking.</li>
+      <li>Implemented core mechanics including ball trajectory generation (via linear interpolation of key points), collision detection, ball elimination logic, and dynamic visual effects (e.g., rotating "Bing Dwen Dwen" character).</li>
+      <li>Integrated background music and sound effects using Windows MCI API; designed start screen, win/loss detection, and smooth transitions between game states.</li>
+      <li>Awarded **2nd place in class** for creativity, code quality, and user experience in the course project evaluation.</li>
+    </ul>
+  </div>
+</div>
+
 
 
 
 # 🎖 Honors and Awards
+- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development
+  ，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
+
 - *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
 
 - *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University
@@ -271,6 +402,13 @@ You can contact me via the following emails:
 
   *- Bachelor of Information Security, Ranked 1st in the grade*
 
+- *2025.09 - Present*, **College of Cyber Science, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**
+
+  *- Master of Electronic Information*
+
+  *- Lab: Laboratory of Cryptography and Computer Security (LoCCS), Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
+
+
 # 💻 Internships
 - *2025.06 - 2025.09 (now)*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
@@ -278,7 +416,7 @@ You can contact me via the following emails:
 
 - *2025.01 - 2025.06*, Wuxi Blockchain Advanced Research Center, Wuxi, China.
 
-  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
+  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181), [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191)*
 
 # 🪽 Beyond Academics
 
