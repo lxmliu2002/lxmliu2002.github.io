@@ -163,7 +163,8 @@ You can contact me via the following emails:
   </div>
 
   <!-- 右侧文字区域 -->
-  <div class='paper-box-text' markdown="1">
+  <!-- <div class='paper-box-text' markdown="1"> -->
+  <div class='paper-box-text'>
     <p>
       <a href="http://mingqi.sh.cn/" target="_blank" rel="noopener"><strong>“Mingqi” Medical Imaging Large Model Matrix</strong></a>
     </p>
