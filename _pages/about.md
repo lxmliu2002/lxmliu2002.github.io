@@ -139,6 +139,21 @@ You can contact me via the following emails:
 
 # ⚙️ Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Game Dev</div><img src='images/projects/mingqi.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WAVE ADN WAVE - 2D Vector Shooting Game](https://www.bilibili.com/video/BV1Uc411P7bQ/?spm_id_from=333.337.search-card.all.click&vd_source=00d5db08dc38a71784409aafec78f52c)
+
+**Subproject Leader** | *2024.12 – Present*
+
+<!-- [**Demo Video**](https://www.bilibili.com/video/BV1Uc411P7bQ) -->
+- Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.
+- Enhanced cross-modal image-text retr. via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.
+- Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.
+- Recognized as one of the Top 10 AI Application Scenarios at the 2nd Belt and Road Sci-Tech Exchange Conference; awarded Top 10 Outstanding Cases of AI for Sustainable Development.
+</div>
+</div>
+
 <div class="project">
   <div class="project-header">
     <div>
@@ -265,10 +280,10 @@ I like **music, billiards, traveling and badminton**. At the same time, I am als
 </div>
 
 <footer class="site-footer">
-  <p>&copy; 2025 <a href="https://github.com/lxmliu2002 " target="_blank" rel="noopener">Xiuming Liu</a> all rights reserved</p>
+  <p>&copy; 2025 <a href="https://github.com/lxmliu2002" target="_blank" rel="noopener">Xiuming Liu</a> all rights reserved</p>
   <p>
     Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io " target="_blank" rel="noopener">Yi Ren</a>
+    <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener">Yi Ren</a>
   </p>
-  <p>Last modified: <time datetime="2025-04-05">July 15, 2025</time></p>
+  <p>Last modified: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %d, %Y" }}</time></p>
 </footer>
