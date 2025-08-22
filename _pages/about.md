@@ -115,9 +115,9 @@ You can contact me via the following emails:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
-
 <span class='anchor' id='news'></span>
+
+# 🔥 News
 
 *2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
@@ -129,9 +129,12 @@ You can contact me via the following emails:
 
 *2025.06*: &nbsp;🎉🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
-<!-- # 📝 Publications 
+<!-- 
 
 <span class='anchor' id='publications'></span>
+
+# 📝 Publications 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -148,9 +151,9 @@ You can contact me via the following emails:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-# ⚙️ Projects
-
 <span class='anchor' id='projects'></span>
+
+# ⚙️ Projects
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -372,10 +375,9 @@ You can contact me via the following emails:
 
 
 
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-
-<span class='anchor' id='honors-and-awards'></span>
 
 - *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
 
@@ -403,9 +405,15 @@ You can contact me via the following emails:
 
 - *2022.12*: &nbsp;💰 National Scholarship (Top 1%)
 
-# 📖 Educations
+
+
+
+
+
 
 <span class='anchor' id='educations'></span>
+
+# 📖 Educations
 
 - *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
 
@@ -418,9 +426,15 @@ You can contact me via the following emails:
   *- Lab: Laboratory of Cryptography and Computer Security (LoCCS), Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
 
 
-# 💻 Internships
+
+
+
+
+
 
 <span class='anchor' id='internships'></span>
+
+# 💻 Internships
 
 - *2025.06 - 2025.09 (now)*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
@@ -430,9 +444,15 @@ You can contact me via the following emails:
 
   *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181), [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191)*
 
-# 🪽 Beyond Academics
+
+
+
+
+
 
 <span class='anchor' id='beyond-academics'></span>
+
+# 🪽 Beyond Academics
 
 I like **music, billiards, traveling and badminton**. At the same time, I am also keen to try various positions of student work. I am a **warm-hearted person**. If you encounter any problems, you can always come to me and I will do my best to help you.
 
