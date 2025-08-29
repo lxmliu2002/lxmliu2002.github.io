@@ -93,7 +93,6 @@ redirect_from:
 
 Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently an intern at [Ant Research](https://www.antresearch.com/) under Ant Group. I was also an undergraduate student majoring in information security at [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/). In September this year, I will enter [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) to pursue a master's degree (2025.09 - 2028.04), and my supervisor is Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181) and Assistant Researcher [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191).
 
-I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
 
 My primary research interests lie in the areas of **security for single-modal and multi-modal large models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
@@ -108,9 +107,12 @@ You can contact me via the following emails:
 
   - lxmliu2002 *[at]* mail.nankai.edu.cn
 
-  - liuxiuming.lxm *[at]* antgroup.com
+  - ~~liuxiuming.lxm *[at]* antgroup.com ~~ ***(expired)***
 
   - lxmliu2002 *[at]* sjtu.edu.cn
+
+
+I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -118,6 +120,8 @@ You can contact me via the following emails:
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+
+*2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
 *2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
@@ -436,7 +440,7 @@ You can contact me via the following emails:
 
 # 💻 Internships
 
-- *2025.06 - 2025.09 (now)*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
+- *2025.06 - 2025.09*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
   *- Lab: [Cryptology Lab](https://antcplab.github.io/), Supervisor: Zhicong Huang*
 
