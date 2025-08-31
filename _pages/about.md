@@ -123,6 +123,8 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
+*2025.08*: &nbsp;🎉🎉 My research has been officially registered with the China Copyright Protection Center. And the technology has been deployed and applied by the Cybersecurity Defense Unit of the Shanghai Public Security Bureau, achieving practical effectiveness in real-world operations. Congratulations and thank you to all collaborators and mentors!
+
 *2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
 *2025.08*: &nbsp;🎉🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
