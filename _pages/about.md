@@ -123,7 +123,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
-*2025.08*: &nbsp;🎉🎉 My research has been officially registered with the China Copyright Protection Center. And the technology has been deployed and applied by the Cybersecurity Defense Unit of the Shanghai Public Security Bureau, achieving practical effectiveness in real-world operations. Congratulations and thank you to all collaborators and mentors!
+*2025.08*: 🎉🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
 
 *2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
