@@ -121,9 +121,13 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🔥 News
 
+*2025.11*: &nbsp;🎉🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew), ranking among the top entries out of over 2,200 submissions nationwide!
+
+*2025.10*: &nbsp;🎉🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned Raft Master (Top Prize) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation."
+
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
-*2025.08*: 🎉🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
+*2025.08*: &nbsp;🎉🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
 
 *2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
@@ -160,6 +164,31 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 <span class='anchor' id='projects'></span>
 
 # ⚙️ Projects
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Youan</div>
+      <img src='images/projects/youan.svg' alt="Mingqi" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong>
+    </p>
+    <p>
+      <span class="paper-role-badge">Core Leader</span>
+      <span class="paper-time-badge">May 2025 – Oct 2025</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Designed a “multi-modality fusion encoder + WARM expert agent swarm + panoramic cockpit with safety foundation” tripartite architecture to tackle data fusion, cross-phase coordination, and trustworthiness in AI-driven disaster response.</li>
+      <li>Enabled real-time, voice-controlled AR-assisted field operations for frontline responders, achieving “one-person army” situational awareness during large-scale emergencies.</li>
+      <li>Deployed the system in public safety, insurance assessment, and healthcare domains.</li>
+      <li>Awarded <strong>Raft Master (Top Prize)</strong> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge under SH-23: “Multimodal-based Catastrophe Early Warning and Loss Mitigation.”</li>
+    </ul>
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -384,6 +413,10 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+
+- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew) (Mingqi Team)
+
+- *2025.10*： &nbsp;🎖 Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge (LoCCS Team)
 
 - *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
 
