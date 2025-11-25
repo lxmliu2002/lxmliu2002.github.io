@@ -111,7 +111,7 @@ You can contact me via the following emails:
 
   - lxmliu2002 *[at]* sjtu.edu.cn
 
-Our team is affiliated with the Institute of Information Security and Cryptography, School of Computer Science, Shanghai Jiao Tong University ([link](https://www.cs.sjtu.edu.cn/yjjg/807.html)). We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>.
+Our team is affiliated with the [Institute of Information Security and Cryptology](https://www.cs.sjtu.edu.cn/yjjg/807.html), School of Computer Science, Shanghai Jiao Tong University. We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>.
 
 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
