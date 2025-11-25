@@ -111,6 +111,7 @@ You can contact me via the following emails:
 
   - lxmliu2002 *[at]* sjtu.edu.cn
 
+Our team is affiliated with the Institute of Information Security and Cryptography, School of Computer Science, Shanghai Jiao Tong University ([link](https://www.cs.sjtu.edu.cn/yjjg/807.html)). We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>.
 
 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
@@ -123,7 +124,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.11*: &nbsp;🎉🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew), ranking among the top entries out of over 2,200 submissions nationwide!
 
-*2025.10*: &nbsp;🎉🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned Raft Master (Top Prize) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation."
+*2025.10*: &nbsp;🎉🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation."
 
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
@@ -175,7 +176,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
   <div class='paper-box-text'>
     <p>
-      <strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong>
+      <a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
     </p>
     <p>
       <span class="paper-role-badge">Core Leader</span>
@@ -185,7 +186,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
       <li>Designed a “multi-modality fusion encoder + WARM expert agent swarm + panoramic cockpit with safety foundation” tripartite architecture to tackle data fusion, cross-phase coordination, and trustworthiness in AI-driven disaster response.</li>
       <li>Enabled real-time, voice-controlled AR-assisted field operations for frontline responders, achieving “one-person army” situational awareness during large-scale emergencies.</li>
       <li>Deployed the system in public safety, insurance assessment, and healthcare domains.</li>
-      <li>Awarded <strong>Raft Master (Top Prize)</strong> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge under SH-23: “Multimodal-based Catastrophe Early Warning and Loss Mitigation.”</li>
+      <li>Awarded <strong>Raft Master (Top Prize)</strong> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: “Multimodal-based Catastrophe Early Warning and Loss Mitigation.”</li>
     </ul>
   </div>
 </div>
