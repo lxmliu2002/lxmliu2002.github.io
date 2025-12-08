@@ -122,23 +122,27 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🔥 News
 
-*2025.11*: &nbsp;🎉🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew), ranking among the top entries out of over 2,200 submissions nationwide!
+*2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026 — see you in Baltimore!
 
-*2025.10*: &nbsp;🎉🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation."
+*2025.11*: &nbsp;🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew), ranking among the top entries out of over 2,200 submissions nationwide!
+
+*2025.10*: &nbsp;🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation."
 
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
-*2025.08*: &nbsp;🎉🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
+*2025.09*: &nbsp;🎉 Paper [“SoK: Robustness in Large Language Models against Jailbreak Attacks”](https://github.com/XOTaichi/Security-Cube-Artifact) (with Feiyue Xu) accepted by IEEE S&P 2026.
 
-*2025.08*: &nbsp;🎉🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
+*2025.08*: &nbsp;🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
 
-*2025.08*: &nbsp;🎉🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
+*2025.08*: &nbsp;🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
-*2025.07*: &nbsp;🎉🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference.
+*2025.08*: &nbsp;🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
-*2025.06*: &nbsp;🎉🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
+*2025.07*: &nbsp;🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference.
 
-*2025.06*: &nbsp;🎉🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
+*2025.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
+
+*2025.06*: &nbsp;🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
 <!-- 
 
