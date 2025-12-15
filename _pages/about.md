@@ -95,7 +95,7 @@ Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently a
 
 
 
-My primary research interests lie in the areas of **security for single-modal and multi-modal large models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
+My primary research interests lie in the areas of **security for single-modal and multi-modal large language models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
 
 My research aims to build safe, reliable, and transparent AI systems, with the goal of creating a more trustworthy AI environment that addresses pressing societal needs in privacy protection, decision-making transparency, and system robustness.
 
