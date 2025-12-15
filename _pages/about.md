@@ -124,7 +124,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at the 2025 Tencent Kaiwu AI Global Open Challenge(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
 
-*2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026 — see you in Baltimore!
+*2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026(CCF-A, one of the top four security conferences) — see you in Baltimore!
 
 *2025.11*: &nbsp;🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛, in Chinese), ranking among the top entries out of over 2,200 submissions nationwide!
 
@@ -132,7 +132,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
-*2025.09*: &nbsp;🎉 Paper [“SoK: Robustness in Large Language Models against Jailbreak Attacks”](https://github.com/XOTaichi/Security-Cube-Artifact) (with Feiyue Xu) accepted by IEEE S&P 2026.
+*2025.09*: &nbsp;🎉 Paper [“SoK: Robustness in Large Language Models against Jailbreak Attacks”](https://github.com/XOTaichi/Security-Cube-Artifact) (with Feiyue Xu) accepted by IEEE S&P 2026(CCF-A, one of the top four security conferences).
 
 *2025.08*: &nbsp;🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
 
