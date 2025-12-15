@@ -122,11 +122,13 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🔥 News
 
+*2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at the 2025 Tencent Kaiwu AI Global Open Challenge(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
+
 *2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026 — see you in Baltimore!
 
-*2025.11*: &nbsp;🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew), ranking among the top entries out of over 2,200 submissions nationwide!
+*2025.11*: &nbsp;🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛, in Chinese), ranking among the top entries out of over 2,200 submissions nationwide!
 
-*2025.10*: &nbsp;🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation."
+*2025.10*: &nbsp;🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛, in Chinese) under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation".
 
 *2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
 
@@ -134,11 +136,11 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.08*: &nbsp;🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
 
-*2025.08*: &nbsp;🎉 After communicating with GitHub's support team for a full month, the website has finally been restored!
+*2025.08*: &nbsp;😭 After communicating with GitHub's support team for a full month, the website has finally been restored!
 
 *2025.08*: &nbsp;🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
-*2025.07*: &nbsp;🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference.
+*2025.07*: &nbsp;🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference(2025世界人工智能大会“全球AI赋能可持续发展十大卓越案例”, in Chinese).
 
 *2025.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
 
@@ -419,35 +421,37 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🎖 Honors and Awards
 
-- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew) (Mingqi Team)
+- *2025.12*： &nbsp;🎖 Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge** (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
 
-- *2025.10*： &nbsp;🎖 Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge (LoCCS Team)
+- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛 **优胜奖**, in Chinese) (Mingqi Team)
 
-- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference
+- *2025.10*： &nbsp;🎖 Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
 
-- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University
+- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference(2025世界人工智能大会 **“全球AI赋能可持续发展十大卓越案例”**, in Chinese)  (Mingqi Team)
 
-- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University
+- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University(优秀共产党员, in Chinese)
 
-- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)
+- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University(红旗党支部**负责人**, in Chinese)
 
-- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship
+- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)(南开大学最高奖学金——周恩来奖学金, in Chinese)
 
-- *2024.12*: &nbsp;💰 National Scholarship (Top 1%)
+- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship(云安密码一等奖学金, in Chinese)
 
-- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University
+- *2024.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
 
-- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University (10 Students in Nankai University)
+- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University(南开大学三好学生, in Chinese)
 
-- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin
+- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University(南开大学“九五之‘芯’”奖学金, in Chinese) (10 Students in Nankai University)
 
-- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition
+- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin(天津市优秀学生干部, in Chinese)
 
-- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation
+- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition(全国大学生计算机系统能力赛**三等奖**, in Chinese)
 
-- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition
+- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation(全国学生会组织“我为同学做实事”精品项目**负责人**, in Chinese)
 
-- *2022.12*: &nbsp;💰 National Scholarship (Top 1%)
+- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition(天津市数学建模比赛**二等奖**, in Chinese)
+
+- *2022.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
 
 
 
