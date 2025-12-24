@@ -122,7 +122,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🔥 News
 
-*2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at the 2025 Tencent Kaiwu AI Global Open Challenge(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
+*2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at [the 2025 Tencent Kaiwu AI Global Open Challenge](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw)(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
 
 *2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026(CCF-A, one of the top four security conferences) — see you in Baltimore!
 
@@ -182,7 +182,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
   <div class='paper-box-text'>
     <p>
-      <a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
+      <a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
     </p>
     <p>
       <span class="paper-role-badge">Core Leader</span>
@@ -421,11 +421,11 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🎖 Honors and Awards
 
-- *2025.12*： &nbsp;🎖 Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge** (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
+- *2025.12*： &nbsp;🎖 [Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge**](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw) (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
 
 - *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛 **优胜奖**, in Chinese) (Mingqi Team)
 
-- *2025.10*： &nbsp;🎖 Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
+- *2025.10*： &nbsp;🎖 [Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg)(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
 
 - *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference(2025世界人工智能大会 **“全球AI赋能可持续发展十大卓越案例”**, in Chinese)  (Mingqi Team)
 
