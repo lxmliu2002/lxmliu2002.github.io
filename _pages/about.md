@@ -477,6 +477,15 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 
 
+<span class='anchor' id='services'></span>
+
+# 🤝 Services
+
+- **Reviewer**: IEEE TIFS, IEEE TDSC, IEEE EuroS&P (and related security/AI venues)
+
+- **Teaching Assistant**: Advanced Mathematics, Operating Systems, Advanced Language Programming (C++), Fundamentals of Artificial Intelligence
+
+
 
 
 
@@ -490,7 +499,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 - *2025.01 - 2025.06*, Wuxi Blockchain Advanced Research Center, Wuxi, China.
 
-  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181), [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191)*
+  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
 
 
 
