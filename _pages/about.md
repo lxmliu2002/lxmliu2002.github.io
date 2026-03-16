@@ -183,7 +183,8 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     </div>
     <div class='paper-box-text' markdown="1">
 
-[Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://zenodo.org/records/17959094)
+<!-- [Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://zenodo.org/records/17959094) -->
+Quantifying Large Language Model Attacks Through the Lens of Model Cognition
 
 <p>
     <span class="paper-role-badge">Co-first Author</span>
@@ -191,9 +192,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 </p>
 
 <div style="margin-bottom: 0.5em;">
-    <strong><em>Xiuming Liu</em></strong>, <em>Chaoxiang He</em>, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
-
-    <strong>Xiuming Liu*</strong>, Chaoxiang He*, et al., Dawu Gu, Shuo Wang<sup>†</sup>
+    <strong>Xiuming Liu*</strong>, Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
 </div>
 
 <!-- <strong><em>Xiuming Liu</em></strong>, <em>Chaoxiang He</em>, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup> -->
@@ -209,6 +208,35 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 </div>
 </div>
 
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">IEEE S&P 2026</div>
+            <img src='images/publications/sp26.svg' alt="Security Cube Framework" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+SoK: Robustness in Large Language Models against Jailbreak Attacks
+
+<p>
+    <span class="paper-role-badge">Second Student Author</span>
+    <span class="paper-time-badge">IEEE S&P 2026</span>
+</p>
+
+<div style="margin-bottom: 0.5em;">
+    Feiyue Xu, Hongsheng Hu, Chaoxiang He, Sheng Hang, Hanqing Hu, <strong>Xiuming Liu</strong>, Yubo Zhao, Zhengyan Zhou, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
+</div>
+
+[**Project**](https://github.com/XOTaichi/Security-Cube-Artifact)
+- **Security Cube Evaluation Framework**: Designed **Security Cube**, a holistic evaluation paradigm integrating 14 quantitative metrics across attacker, defender, and judge axes. It introduces novel measures like **Attack Stability**, **Cross-model Transferability (CIPA)**, and **Depth of Disruption** to capture the multi-dimensional nature of LLM security.
+- **Large-scale Empirical Benchmarking**: Conducted comprehensive studies spanning 13 representative attacks and 5 defenses across model scales from 7B to 671B. Analyzed over **48,000+ attack attempts** to establish a clear landscape of current LLM vulnerabilities and defense-in-depth alignment.
+- **Insight on Generative Priors**: Revealed that reasoning-aligned models (e.g., Claude-3.7, o1-mini) exhibit a qualitative leap in robustness. Quantitatively proved that shared "generative priors" and autoregressive biases form systemic vulnerabilities that transcend architectures, providing theoretical support for representational governance.
+- **Systematic Taxonomy**: Systematized the jailbreak landscape into a novel taxonomy based on dominant mechanisms, categorizing 7 types of attacks (e.g., Logprob, Multi-round) and 5 stages of defense deployment (e.g., Pre-filter, Intra-process).
+
+</div>
+</div>
 
 
 <span class='anchor' id='projects'></span>
