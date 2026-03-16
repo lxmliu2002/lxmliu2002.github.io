@@ -178,7 +178,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     <div class='paper-box-image'>
         <div>
             <div class="badge">USENIX Security 2026</div>
-            <img src='images/publications/security26.pdf' alt="Sentinel Framework" width="100%">
+            <img src='images/publications/security26.svg' alt="Sentinel Framework" width="100%">
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
