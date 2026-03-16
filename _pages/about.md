@@ -185,7 +185,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 [Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://zenodo.org/records/17959094)
 
-**Xiuming Liu***, Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang
+***Xiuming Liu***, *Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang
 
 <!-- [**Project**](https://zenodo.org/records/17959094)  -->
 - **Discovery of "Cognitive Dissonance" in LLMs**: Revealed a systematic recognition-enforcement gap where intermediate hidden states can distinguish harmful intent with **90%+ accuracy** , yet the final decoder often prioritizes instruction-following over internal safety signals. Proposed the **"Inside-out" (Inside2Out)** safety alignment paradigm based on these findings.
