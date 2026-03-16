@@ -111,7 +111,7 @@ You can contact me via the following emails:
 
   - lxmliu2002 *[at]* sjtu.edu.cn
 
-Our team is affiliated with the [Institute of Information Security and Cryptology](https://www.cs.sjtu.edu.cn/yjjg/807.html), School of Computer Science, Shanghai Jiao Tong University. We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>.
+<!-- Our team is affiliated with the [Institute of Information Security and Cryptology](https://www.cs.sjtu.edu.cn/yjjg/807.html), School of Computer Science, Shanghai Jiao Tong University. We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>. -->
 
 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
 
@@ -166,6 +166,38 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+
+
+<span class='anchor' id='publications'></span>
+
+# 📝 Publications 
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">USENIX Security 2026</div>
+            <img src='images/publications/security26.pdf' alt="Sentinel Framework" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+
+[Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://zenodo.org/records/17959094)
+
+**Xiuming Liu***, Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang
+
+<!-- [**Project**](https://zenodo.org/records/17959094)  -->
+- **Discovery of "Cognitive Dissonance" in LLMs**: Revealed a systematic recognition-enforcement gap where intermediate hidden states can distinguish harmful intent with **90%+ accuracy** , yet the final decoder often prioritizes instruction-following over internal safety signals. Proposed the **"Inside-out" (Inside2Out)** safety alignment paradigm based on these findings.
+- **Quantitative Attack & Trajectory Metrics**: Developed the **Attack Consistency Index (ACI)** and layer-wise cognitive drift metrics, providing the first quantitative map of how malicious prompts evolve, propagate, and degrade across the transformer stack.
+- **Lightweight Multi-Layer Sentinel**: Introduced a robust **Multi-Layer Sentinel** mechanism (< 5M parameters) leveraging the functional complementarity of hidden layers. It maintains over **94% detection accuracy** under white-box adaptive attacks, significantly outperforming the state-of-the-art baselines.
+
+<!-- - 揭示了LLM内部的“认知失调”现象，即模型中间层隐藏状态已能**区分有害意图（准确率高达90\%+）**，但最终解码器常选择遵守任务而忽略安全信号。据此提出“由内而外（Inside2Out）”的安全对齐新范式 。
+- 设计了**攻击能力指数** 与层级认知漂移度量标准，首次定量绘制了恶意提示在模型中的认知演变轨迹图。
+- 提出基于隐藏层间安全能力互补性的轻量级**多层哨兵（Multi-Layer Sentinel）**机制，在多个基准测试取得了较好的效果，且在白盒自适应攻击下仍保持**94\%以上**的检测精度，表现显著优于各种基线方法。 -->
+</div>
+</div>
+
 
 
 <span class='anchor' id='projects'></span>
