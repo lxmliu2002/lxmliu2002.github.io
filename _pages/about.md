@@ -91,7 +91,7 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently a master’s student at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) (2025.09 – 2028.03), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181) and Assistant Researcher [Chaoxiang He](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=191). I previously completed my undergraduate studies in Information Security at the [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/).
+Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently a master’s student at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) (2025.09 – 2028.03), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181). I previously completed my undergraduate studies in Information Security at the [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/).
 
 
 
