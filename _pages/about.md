@@ -221,7 +221,7 @@ Quantifying Large Language Model Attacks Through the Lens of Model Cognition
 SoK: Robustness in Large Language Models against Jailbreak Attacks
 
 <p>
-    <span class="paper-role-badge">Second Student Author</span>
+    <span class="paper-role-badge">Core Contributor</span>
     <span class="paper-time-badge">IEEE S&P 2026</span>
 </p>
 
