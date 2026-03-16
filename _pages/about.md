@@ -185,7 +185,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 [Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://zenodo.org/records/17959094)
 
-<!-- <strong><em>Xiuming Liu</em></strong>, <em>Chaoxiang He</em>, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup> -->
+<strong><em>Xiuming Liu</em></strong>, <em>Chaoxiang He</em>, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
 
 **Xiuming Liu***, Chaoxiang He*, et al., Dawu Gu, Shuo Wang<sup>†</sup>
 

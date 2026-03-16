@@ -91,7 +91,8 @@
     /* 可选：两个标签之间加点间距 */
     .paper-box-text > p:nth-child(2) {
     display: flex;
-    justify-content: space-between;
+    // justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     margin-bottom: 0.5em;
     gap: 0.5em;
