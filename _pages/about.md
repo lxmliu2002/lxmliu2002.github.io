@@ -246,6 +246,32 @@ SoK: Robustness in Large Language Models against Jailbreak Attacks
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Vulnerability Wiki</div>
+      <img src='images/projects/VulnerabilityWiki.png' alt="Vulnerability Wiki" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
+    </p>
+    <p>
+      <span class="paper-role-badge">Team Member</span>
+      <span class="paper-time-badge">Aug 2025 – Oct 2025</span>
+    </p>
+    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+      <li>Systematically organize the principles, attack techniques, detection, and defense methods of various vulnerabilities.</li>
+      <li>Track high-risk CVE cases, combining reproduction environments and exploitation chain analysis
+Provide learning materials tailored to different technical skill levels.</li>
+      <li>Pool community efforts to collaboratively build an open and shared vulnerability encyclopedia.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">Youan</div>
       <img src='images/projects/youan.svg' alt="Mingqi" width="100%">
     </div>
