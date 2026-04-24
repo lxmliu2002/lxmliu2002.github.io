@@ -253,7 +253,7 @@ SoK: Robustness in Large Language Models against Jailbreak Attacks
 
   <div class='paper-box-text'>
     <p>
-      <a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
+      <a href="https://www.vul-wiki.org/" target="_blank" rel="noopener"><strong>Vulnerability Wiki: a Comprehensive, Systematic and Multi-dimensional Knowledge-sharing Community for Vulnerabilities</strong></a>
     </p>
     <p>
       <span class="paper-role-badge">Team Member</span>
