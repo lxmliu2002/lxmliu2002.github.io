@@ -183,8 +183,8 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     </div>
     <div class='paper-box-text' markdown="1">
 
-<!-- [Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://zenodo.org/records/17959094) -->
-Quantifying Large Language Model Attacks Through the Lens of Model Cognition
+[Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming)
+<!-- Quantifying Large Language Model Attacks Through the Lens of Model Cognition -->
 
 <p>
     <span class="paper-role-badge">Co-first Author</span>
