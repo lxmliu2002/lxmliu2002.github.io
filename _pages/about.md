@@ -218,7 +218,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     </div>
     <div class='paper-box-text' markdown="1">
 
-SoK: Robustness in Large Language Models against Jailbreak Attacks
+[SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058)
 
 <p>
     <span class="paper-role-badge">Core Contributor</span>
