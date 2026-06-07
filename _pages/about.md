@@ -122,6 +122,8 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 # 🔥 News
 
+*2026.06*: &nbsp;🎉 I have been accepted to the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/) at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/).
+
 *2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at [the 2025 Tencent Kaiwu AI Global Open Challenge](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw)(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
 
 *2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026(CCF-A, one of the top four security conferences) — see you in Baltimore!
