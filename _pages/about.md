@@ -107,9 +107,12 @@ You can contact me via the following emails:
 
   - lxmliu2002 *[at]* mail.nankai.edu.cn
 
-  - ~~liuxiuming.lxm *[at]* antgroup.com ~~ ***(expired)***
+  - liuxiuming.lxm *[at]* antgroup.com
 
   - lxmliu2002 *[at]* sjtu.edu.cn
+<!--  - ~~liuxiuming.lxm *[at]* antgroup.com ~~ ***(expired)***-->
+
+
 
 <!-- Our team is affiliated with the [Institute of Information Security and Cryptology](https://www.cs.sjtu.edu.cn/yjjg/807.html), School of Computer Science, Shanghai Jiao Tong University. We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>. -->
 
@@ -121,6 +124,8 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+
+*2026.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/) as an intern. 
 
 *2026.06*: &nbsp;🎉 I have been accepted to the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/) at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/).
 
