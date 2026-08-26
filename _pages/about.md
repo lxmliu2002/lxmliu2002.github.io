@@ -399,6 +399,7 @@ Provide learning materials tailored to different technical skill levels.</li>
   </div>
 </div>
 
+<!-- Hidden projects: RMDB, SysY-to-ARM, CodeHint, JingZhiYao, and Zouma.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -521,6 +522,7 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 
 
+-->
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
@@ -573,7 +575,7 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 - *2025.09 - Present*, **College of Cyber Science, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**
 
-  *- Master of Electronic Information*
+  *- Master of Network and Information Security*
 
   *- Lab: Laboratory of Cryptography and Computer Security (LoCCS), Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
 
@@ -596,6 +598,10 @@ Provide learning materials tailored to different technical skill levels.</li>
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
+
+- *2026.06 - Present*, [Ant Group](https://www.antgroup.com/), Beijing, China.
+
+  *- Lab: Security Business Group, Agent Security Team, Supervisor: Chao Feng*
 
 - *2025.06 - 2025.09*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
 
