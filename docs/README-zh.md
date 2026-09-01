@@ -1,52 +1,90 @@
-# 这是我的个人主页！
+# 刘修铭的学术主页
 
-[🇺🇸 English](https://github.com/lxmliu2002/lxmliu2002.github.io/tree/main/README.md) | 🇨🇳 简体中文
+[English](../README.md) | 简体中文
 
+这是[刘修铭个人学术主页](https://lxmliu2002.github.io/)的源代码。网站使用 Jekyll 构建，并通过 GitHub Pages 部署。
 
-## 主要特点
-- **自动更新谷歌学术引用**: 借助谷歌学术爬虫和github action功能，本仓库可以自动更新作者的引用数和论文引用数。
-- **支持谷歌Analytics**: 你可以通过简单的配置来实现使用谷歌Analytics跟踪网页的流量。
-- **响应式的**: 此主页会针对不同的屏幕尺寸自动调整布局。
-- **美观而简约**: 此主页美观而简约，适合个人学术主页的搭建。
-- **搜索引擎优化**: 搜索引擎优化 (SEO) 帮助搜索引擎轻松找到您在主页上发布的信息，然后将其与类似网站进行排名，并获得排名优势。
+## 主要功能
 
-## 快速开始
+- 在同一 URL 内切换中英文，并在浏览器中保存语言选择。
+- 适配桌面端和移动端的响应式布局。
+- 支持浅色与深色主题。
+- 以结构化板块展示个人简介、动态、教育经历、科研与产业经历、论文、项目、荣誉、学术服务和联系方式。
+- 动态与邮箱列表默认折叠，避免页面初始信息过密。
+- 从 `main` 分支直接通过 GitHub Pages 部署。
 
-1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。
-1. 配置谷歌学术引用爬虫：
-    1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
-    1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
-    1. 在github本仓库页面的`Action`中，点击*"I understand my workflows, go ahead and enable them"*启用workflows by clicking *"。本action将会谷歌学术引用的统计量数据`gs_data.json`到本仓库的`google-scholar-stats`分支中。每次修改main分支的内容会触发该action。本action也会在每天08:00 UTC定时触发。
-1. 使用 [favicon-generator](https://redketchup.io/favicon-generator)生成favicon（网页icon文件），并下载所有文件到`REPO/images`。
-1. 修改主页配置文件[_config.yml](../_config.yml):
-    1. `title`: 主页标题
-    1. `description`: 主页的描述
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (可选的): 谷歌Analytics ID
-    1. SEO相关的键值 (可选的): 从搜索引擎的控制台里获得对应的ID (例如：Google, Bing and Baidu)，然后粘贴到这里。
-    1. `author`: 主页作者信息，包括其他网页、Email、所在城市、大学等。
-    1. `google_scholar_stats_use_cdn`: 使用CDN读取存储于`https://raw.githubusercontent.com/`的google scholar引用统计数据，防止中国大陆地区被墙无法访问的情况。但是CDN有缓存，因此`google_scholar_stats_use_cdn : True`时，引用数据更新会有延迟。
-    1. 更多的配置信息在注释中有详细描述。
-1. 将你的主页内容添加到 [_pages/about.md](../_pages/about.md).
-1. 你的主页将会被部署到`https://USERNAME.github.io`.
+## 项目结构
 
-## 本地调试
+| 路径 | 用途 |
+| --- | --- |
+| [`_pages/about.md`](../_pages/about.md) | 英文主页内容 |
+| [`_pages/about_zh.md`](../_pages/about_zh.md) | 中文主页内容 |
+| [`_data/navigation.yml`](../_data/navigation.yml) | 中英文导航文字 |
+| [`_layouts/home.html`](../_layouts/home.html) | 主页文档布局 |
+| [`_includes/home-masthead.html`](../_includes/home-masthead.html) | 页头、导航、主题与语言控件 |
+| [`assets/css/home.scss`](../assets/css/home.scss) | 主页样式与响应式规则 |
+| [`assets/js/home.js`](../assets/js/home.js) | 主题、语言、导航和折叠列表交互 |
+| [`images/`](../images/) | 头像、机构标志和站点图片 |
 
-1. 使用`git clone`将本项目克隆到本地。
-1. 安装Jekyll的构建环境，包括`Ruby`、`RubyGems`、`GCC`和`Make`。可参考[该教程](https://jekyllrb.com/docs/installation/#requirements)。
-1. 运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。
-1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
-1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
+中英文内容文件使用相同的章节结构和 ID。中文内容作为页内模板加载，因此切换语言时不会添加 `/zh/`，也不会离开当前主页。
 
-# Acknowledges
+## 本地开发
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+### 环境要求
+
+- Ruby 3.3.12
+- Bundler
+- 兼容 Jekyll 的构建环境
+
+安装依赖：
+
+```bash
+bundle install
+```
+
+启动支持实时刷新的本地服务器：
+
+```bash
+bash run_server.sh
+```
+
+在浏览器中打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。修改 `_config.yml` 后需要重启服务器，因为 Jekyll 不会自动重新加载配置文件。
+
+## 构建检查
+
+提交前运行以下检查：
+
+```bash
+bundle exec jekyll build
+node --check assets/js/home.js
+git diff --check
+```
+
+构建结果会生成在 `_site/` 目录中。
+
+## 部署
+
+代码推送到 `main` 后，GitHub Pages 会自动构建并发布网站：
+
+```bash
+git push origin main
+```
+
+线上地址为 [https://lxmliu2002.github.io/](https://lxmliu2002.github.io/)。
+
+## 内容维护约定
+
+- 新增或调整章节顺序时，保持 `_pages/about.md` 与 `_pages/about_zh.md` 的结构一致。
+- 保持 `_data/navigation.yml` 中英文导航的顺序与正文板块一致。
+- 展示样式和交互逻辑应分别放在 `assets/css/home.scss` 与 `assets/js/home.js` 中，页面文件只维护内容。
+- 未明确批准公开传播时，不要将私有稿件或审稿中的论文文件发布到网站。
 
 ## 致谢
 
-- AcadHomepage 采用了 Font Awesome，其分发遵循 SIL OFL 1.1 和 MIT 许可证。
-- AcadHomepage 受到 GitHub 项目 [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 的影响，该项目遵循 MIT 许可证分发。
-- AcadHomepage 受到 GitHub 项目 [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) 的启发，该项目遵循 MIT 许可证分发。
-- AcadHomepage 在开发与部署过程中，参考并受益于阿里巴巴云研发的[通义千问（Qwen）](https://chat.qwen.ai/)大模型提供的技术解答与思路启发，在此表示诚挚感谢。
+主页设计参考了 [Weiyuan Li 的个人主页](https://github.com/KuroIsCoding/KuroIsCoding.github.io)和 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)。相关上游署名与许可证说明保留在本文档和 [`LICENSE`](../LICENSE) 中。
+
+AcadHomepage 使用了 [Font Awesome](https://fontawesome.com/)，并受到 [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)与 [Academic Pages](https://github.com/academicpages/academicpages.github.io)的启发。项目早期开发也参考了[通义千问（Qwen）](https://chat.qwen.ai/)提供的技术资料与思路。
+
+## 许可证
+
+许可证及上游署名详情请参见 [`LICENSE`](../LICENSE)。

@@ -1,46 +1,90 @@
-# This is my personal homepage！
+# Xiuming Liu's Academic Homepage
 
-[🇨🇳 简体中文](https://github.com/lxmliu2002/lxmliu2002.github.io/tree/main/docs/README-zh.md) | 🇺🇸 English
+English | [简体中文](docs/README-zh.md)
 
-## Quick Start
+Source code for [Xiuming Liu's academic homepage](https://lxmliu2002.github.io/), built with Jekyll and deployed on GitHub Pages.
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+## Features
 
-## Debug Locally
+- English and Chinese content on the same URL, with the selected language saved in the browser.
+- Responsive layouts for desktop and mobile screens.
+- Light and dark color themes.
+- Structured sections for biography, news, education, experience, publications, projects, awards, service, and contact information.
+- Collapsible news and email lists for a concise default view.
+- Direct deployment through GitHub Pages from the `main` branch.
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+## Project Structure
 
-## Acknowledges
+| Path | Purpose |
+| --- | --- |
+| [`_pages/about.md`](_pages/about.md) | English homepage content |
+| [`_pages/about_zh.md`](_pages/about_zh.md) | Chinese homepage content |
+| [`_data/navigation.yml`](_data/navigation.yml) | English and Chinese navigation labels |
+| [`_layouts/home.html`](_layouts/home.html) | Homepage document layout |
+| [`_includes/home-masthead.html`](_includes/home-masthead.html) | Header, navigation, theme control, and language control |
+| [`assets/css/home.scss`](assets/css/home.scss) | Homepage visual styles and responsive rules |
+| [`assets/js/home.js`](assets/js/home.js) | Theme, language, navigation, and collapsible-list interactions |
+| [`images/`](images/) | Profile, institution, and site images |
 
-- The homepage design has drawn inspiration from [Weiyuan Li's homepage](https://github.com/KuroIsCoding/KuroIsCoding.github.io) and [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Their attribution and applicable license notices are preserved here and in `LICENSE`.
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes),  which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io),  which is distributed under the MIT License.
-- AcadHomepage benefited from the technical answers and intellectual inspiration provided by [Qwen](https://chat.qwen.ai/), a large language model developed by Alibaba Cloud, during its development and deployment. We sincerely thank the Qwen team for their support.
+The English and Chinese content files intentionally use the same section structure and IDs. The Chinese content is loaded as an in-page template, so switching languages does not add `/zh/` or navigate away from the homepage.
+
+## Local Development
+
+### Requirements
+
+- Ruby 3.3.12
+- Bundler
+- A Jekyll-compatible build environment
+
+Install dependencies:
+
+```bash
+bundle install
+```
+
+Start the local server with live reload:
+
+```bash
+bash run_server.sh
+```
+
+Open [http://127.0.0.1:4000](http://127.0.0.1:4000) in a browser. Restart the server after changing `_config.yml`, because Jekyll does not reload configuration changes automatically.
+
+## Validation
+
+Run these checks before committing:
+
+```bash
+bundle exec jekyll build
+node --check assets/js/home.js
+git diff --check
+```
+
+The generated site is written to `_site/`.
+
+## Deployment
+
+GitHub Pages builds and publishes the site when changes are pushed to `main`:
+
+```bash
+git push origin main
+```
+
+The production site is available at [https://lxmliu2002.github.io/](https://lxmliu2002.github.io/).
+
+## Content Maintenance
+
+- Keep `_pages/about.md` and `_pages/about_zh.md` structurally aligned when adding or reordering sections.
+- Keep the English and Chinese navigation entries in `_data/navigation.yml` in the same order as the page sections.
+- Place presentation and interaction rules in `assets/css/home.scss` and `assets/js/home.js`; keep the page files focused on content.
+- Do not publish private or under-review manuscript files unless public distribution has been explicitly approved.
+
+## Acknowledgements
+
+The homepage design draws inspiration from [Weiyuan Li's homepage](https://github.com/KuroIsCoding/KuroIsCoding.github.io) and [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Upstream attribution and applicable license notices are preserved here and in [`LICENSE`](LICENSE).
+
+AcadHomepage incorporates [Font Awesome](https://fontawesome.com/) and is influenced by [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) and [Academic Pages](https://github.com/academicpages/academicpages.github.io). The project also benefited from technical references and ideas provided by [Qwen](https://chat.qwen.ai/) during earlier development.
+
+## License
+
+See [`LICENSE`](LICENSE) for licensing and upstream attribution details.
