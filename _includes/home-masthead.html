@@ -1,0 +1,17 @@
+<header class="home-masthead">
+  <div class="home-masthead__inner">
+    <a class="home-masthead__brand" href="{{ '/' | relative_url }}#about">Xiuming Liu</a>
+
+    <nav class="home-nav" aria-label="Primary navigation">
+      {% for link in site.data.navigation.main %}
+        <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+
+    <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" title="Toggle color theme">
+      <span class="theme-toggle__icon theme-toggle__icon--sun" aria-hidden="true"><i class="fas fa-sun"></i></span>
+      <span class="theme-toggle__icon theme-toggle__icon--moon" aria-hidden="true"><i class="fas fa-moon"></i></span>
+      <span class="visually-hidden">Toggle color theme</span>
+    </button>
+  </div>
+</header>

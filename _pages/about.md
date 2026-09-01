@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+layout: home
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,81 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<style>
-  .badge {
-    font-weight: 600;
-    margin-bottom: 5px;
-  }
-</style>
-
-<style>
-  .logo-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1.5rem;
-    margin-top: 2rem; 
-  }
-  .logo-row img {
-    height: 100px;
-    width: auto;
-    /* 
-       border-radius: 6px;
-       box-shadow: 0 0 6px rgba(0,0,0,.15); */
-  }
-</style>
-
-<style>
-  .site-footer {
-    text-align: center;
-    font-size: 0.85em;
-    color: rgb(128, 128, 128);
-    margin: 2rem 0 1rem; 
-  }
-  .site-footer a {
-    color: inherit;
-    text-decoration: underline;
-  }
-</style>
-
-<style>
-.project {
-  margin-bottom: 2em;
-}
-
-.project-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.5em;
-}
-
-.project-title {
-  font-weight: bold;
-  font-size: 1.2em;
-}
-
-.project-role {
-  background-color: #d4edda; /* 浅绿色背景 */
-  color: #155724;
-  padding: 0.2em 0.6em;
-  border-radius: 4px;
-  margin-left: 1em;
-  white-space: nowrap;
-  font-size: 0.9em;
-}
-
-.project-time {
-  background-color: #e2e3e5; /* 浅灰色背景 */
-  color: #383d41;
-  padding: 0.2em 0.6em;
-  border-radius: 4px;
-  font-size: 0.9em;
-  white-space: nowrap;
-}
-</style>
-
-<span class='anchor' id='about'></span>
+<section id="about" class="home-section home-section--about" markdown="1">
 
 Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently a master’s student at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) (2025.09 – 2028.03), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181). I previously completed my undergraduate studies in Information Security at the [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/).
 
@@ -120,10 +47,12 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+</section>
 
-<span class='anchor' id='news'></span>
 
-# 🔥 News
+<section id="news" class="home-section home-section--news" markdown="1">
+
+<h1>🔥 News</h1>
 
 *2026.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/) as an intern. 
 
@@ -153,11 +82,13 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 *2025.06*: &nbsp;🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
 
+</section>
+
 <!-- 
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
+<h1>📝 Publications</h1>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -177,9 +108,9 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 
 
 
-<span class='anchor' id='publications'></span>
+<section id="publications" class="home-section home-section--publications" markdown="1">
 
-# 📝 Publications 
+<h1>📝 Publications</h1>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -198,7 +129,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     <span class="paper-time-badge">USENIX Security 2026</span>
 </p>
 
-<div style="margin-bottom: 0.5em;">
+<div class="paper-authors">
     <strong>Xiuming Liu*</strong>, Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
 </div>
 
@@ -232,7 +163,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
     <span class="paper-time-badge">IEEE S&P 2026</span>
 </p>
 
-<div style="margin-bottom: 0.5em;">
+<div class="paper-authors">
     Feiyue Xu, Hongsheng Hu, Chaoxiang He, Sheng Hang, Hanqing Hu, <strong>Xiuming Liu</strong>, Yubo Zhao, Zhengyan Zhou, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
 </div>
 
@@ -246,9 +177,11 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
 </div>
 
 
-<span class='anchor' id='projects'></span>
+</section>
 
-# ⚙️ Projects
+<section id="projects" class="home-section home-section--projects" markdown="1">
+
+<h1>⚙️ Projects</h1>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -266,7 +199,7 @@ I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) 
       <span class="paper-role-badge">Team Member</span>
       <span class="paper-time-badge">Aug 2025 – Oct 2025</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Systematically organize the principles, attack techniques, detection, and defense methods of various vulnerabilities.</li>
       <li>Track high-risk CVE cases, combining reproduction environments and exploitation chain analysis
 Provide learning materials tailored to different technical skill levels.</li>
@@ -292,7 +225,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Core Leader</span>
       <span class="paper-time-badge">May 2025 – Oct 2025</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Designed a “multi-modality fusion encoder + WARM expert agent swarm + panoramic cockpit with safety foundation” tripartite architecture to tackle data fusion, cross-phase coordination, and trustworthiness in AI-driven disaster response.</li>
       <li>Enabled real-time, voice-controlled AR-assisted field operations for frontline responders, achieving “one-person army” situational awareness during large-scale emergencies.</li>
       <li>Deployed the system in public safety, insurance assessment, and healthcare domains.</li>
@@ -317,7 +250,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Subproject Leader</span>
       <span class="paper-time-badge">Dec 2024 – Present</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.</li>
       <li>Enhanced cross-modal image-text retrieval via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.</li>
       <li>Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.</li>
@@ -342,7 +275,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Key Team Member</span>
       <span class="paper-time-badge">Mar 2025 – Mar 2025</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Developed a lightweight automation tool that fetches the latest arXiv papers daily and delivers them directly to Lark group chats via a custom bot, streamlining research discovery for academic teams.</li>
       <li>Features include scheduled fetching, customizable topic filters, LLM-powered paper summarization and translation, and influence prediction (in development).</li>
       <li>Designed for extensibility—supports integration with other messaging platforms and backend enhancements for intelligent paper recommendation.</li>
@@ -367,7 +300,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Key Team Member</span>
       <span class="paper-time-badge">Sep 2024 – Oct 2024</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Designed multi-level attack strategies to expose vulnerabilities in T2I models, optimizing adversarial efficacy from a zero-sum game perspective.</li>
       <li>Implemented a unified attack and evaluation framework, enabling efficient and stealthy rewriting of harmful prompts to bypass safety filters in T2I systems.</li>
       <li>Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.</li>
@@ -391,7 +324,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Team Member</span>
       <span class="paper-time-badge">Jan 2024 – Apr 2024</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Supervisor: <strong><a href="https://netsec.ccert.edu.cn/chs/people/chaoz/" target="_blank" rel="noopener noreferrer">Chao Zhang</a></strong>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University</li>
       <li>Web3_MLM is a subset of the <strong><a href="https://mlm01.com" target="_blank" rel="noopener noreferrer">MLM</a></strong> project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li>
       <li>Constructed a high-quality, comprehensive dataset containing Solidity source code, assembly code, and bytecode; performed data augmentation and aligned data formats at both contract-level and function-level granularity.</li>
@@ -416,7 +349,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Key Team Member</span>
       <span class="paper-time-badge">May 2024 – Aug 2024</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Enhanced a database management system within a given framework to support MySQL-like SQL functionalities.</li>
       <li>Implemented storage management module, contributing to over 35% of the team's completed tasks in the preliminary round.</li>
       <li>Participated in optimizing the <code>COUNT(*)</code> etc. query, achieving approximately 10% performance improvement.</li>
@@ -440,7 +373,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Team Header</span>
       <span class="paper-time-badge">Oct 2023 – Jan 2024</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Developed a compiler from SysY (educational language) to ARM assembly in C++, covering full compilation pipeline.</li>
       <li>Implemented lexing (Flex), parsing (Yacc), backpatching-based control flow translation, and optimizations (CSE, DCE).</li>
     </ul>
@@ -463,7 +396,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Team Member</span>
       <span class="paper-time-badge">Jul 2023 – Aug 2023</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Developed a context-aware Python code completion system using Neo4j as a graph database to infer variable types, addressing the lack of built-in type hinting in standard Python interpreters.</li>
       <li>Responsible for syntactic analysis of input code and querying the graph database; implemented path traversal logic to retrieve successor nodes, perform type inference, and return results to the frontend.</li>
       <li>Designed with extensibility in mind—can be adapted into a VS Code extension for real-time intelligent code suggestions.</li>
@@ -487,7 +420,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Team Member</span>
       <span class="paper-time-badge">May 2023 – Jul 2023</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Designed a cross-platform rumor governance scheme leveraging blockchain technology, aiming to optimize key stages in rumor management including rumor identification, precise refutation, and traceability for accountability.</li>
       <li>Responsible for the design and implementation of the database, as well as backend database integration; achieved secure data upload, encryption, storage, and smart contract-based retrieval for message matching, verification, and filtering, supporting information traceability and evidence preservation.</li>
     </ul>
@@ -511,7 +444,7 @@ Provide learning materials tailored to different technical skill levels.</li>
       <span class="paper-role-badge">Course Project</span>
       <span class="paper-time-badge">Apr 2022 – May 2022</span>
     </p>
-    <ul style="margin-top: 0.5em; padding-left: 1.5em;">
+    <ul class="project-details-list">
       <li>Developed a Zouma-style puzzle game in C++ using the EasyX graphics library, featuring a custom game loop, path-based ball movement, and interactive cannon control with real-time mouse tracking.</li>
       <li>Implemented core mechanics including ball trajectory generation (via linear interpolation of key points), collision detection, ball elimination logic, and dynamic visual effects (e.g., rotating "Bing Dwen Dwen" character).</li>
       <li>Integrated background music and sound effects using Windows MCI API; designed start screen, win/loss detection, and smooth transitions between game states.</li>
@@ -523,9 +456,11 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 
 -->
-<span class='anchor' id='honors-and-awards'></span>
+</section>
 
-# 🎖 Honors and Awards
+<section id="honors-and-awards" class="home-section home-section--honors-and-awards" markdown="1">
+
+<h1>🎖 Honors and Awards</h1>
 
 - *2025.12*： &nbsp;🎖 [Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge**](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw) (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
 
@@ -565,9 +500,11 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 
 
-<span class='anchor' id='educations'></span>
+</section>
 
-# 📖 Educations
+<section id="educations" class="home-section home-section--educations" markdown="1">
+
+<h1>📖 Educations</h1>
 
 - *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
 
@@ -583,9 +520,11 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 
 
-<span class='anchor' id='services'></span>
+</section>
 
-# 🤝 Services
+<section id="services" class="home-section home-section--services" markdown="1">
+
+<h1>🤝 Services</h1>
 
 - **Reviewer**: IEEE TIFS, IEEE TDSC, IEEE EuroS&P (and related security/AI venues)
 
@@ -595,9 +534,11 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 
 
-<span class='anchor' id='internships'></span>
+</section>
 
-# 💻 Internships
+<section id="internships" class="home-section home-section--internships" markdown="1">
+
+<h1>💻 Internships</h1>
 
 - *2026.06 - Present*, [Ant Group](https://www.antgroup.com/), Beijing, China.
 
@@ -617,9 +558,11 @@ Provide learning materials tailored to different technical skill levels.</li>
 
 
 
-<span class='anchor' id='beyond-academics'></span>
+</section>
 
-# 🪽 Beyond Academics
+<section id="beyond-academics" class="home-section home-section--beyond-academics" markdown="1">
+
+<h1>🪽 Beyond Academics</h1>
 
 I like **music, billiards, traveling and badminton**. At the same time, I am also keen to try various positions of student work. I am a **warm-hearted person**. If you encounter any problems, you can always come to me and I will do my best to help you.
 
@@ -638,3 +581,5 @@ I like **music, billiards, traveling and badminton**. At the same time, I am als
   </p>
   <p>Last modified: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %d, %Y" }}</time></p>
 </footer>
+
+</section>
