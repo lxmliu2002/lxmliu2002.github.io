@@ -65,6 +65,7 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/about_zh.md
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

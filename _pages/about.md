@@ -3,8 +3,9 @@ permalink: /
 title: ""
 excerpt: ""
 layout: home
-author_profile: true
-redirect_from: 
+author_profile: false
+lang: en
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,570 +17,272 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<section id="about" class="home-section home-section--about" markdown="1">
+<div class="academic-home">
+  <section class="academic-profile" id="home">
+    <span class="anchor-alias" id="about"></span>
+    <aside class="profile-card">
+      <img class="profile-photo" src="/images/avatar.jpg" alt="Portrait of Xiuming Liu" width="800" height="800">
+      <h1>Xiuming Liu</h1>
+      <p class="profile-name-cn">刘修铭</p>
+      <p class="profile-role">M.Sc. Student</p>
+      <a class="profile-affiliation" href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
+      <nav class="profile-links" aria-label="Academic profiles">
+        <a href="mailto:lxmliu2002@gmail.com" aria-label="Email" title="Email"><i class="fas fa-envelope"></i></a>
+        <a href="https://scholar.google.com/citations?user=4I0J7qkAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+        <a href="https://github.com/lxmliu2002" aria-label="GitHub" title="GitHub"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/%E4%BF%AE%E9%93%AD-%E5%88%98-8a69a12b2" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://orcid.org/0009-0006-3638-479X" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid"></i></a>
+      </nav>
+    </aside>
 
-Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently a master’s student at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/) (2025.09 – 2028.03), advised by Associate Professor [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181). I previously completed my undergraduate studies in Information Security at the [College of Cryptology and Cyber Science, Nankai University](https://cyber.nankai.edu.cn/).
+    <div class="biography">
+      <h2><i class="section-heading-icon fas fa-user" aria-hidden="true"></i>Biography</h2>
+      <p>Hello everyone, my name is Xiuming Liu (刘修铭, in Chinese). I am currently a master’s student at <a href="https://www.cs.sjtu.edu.cn/">Shanghai Jiao Tong University</a> (2025.09 – 2028.03), advised by Associate Professor <a href="https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181">Shuo Wang</a>. I previously completed my undergraduate studies in Information Security at the <a href="https://cyber.nankai.edu.cn/">College of Cryptology and Cyber Science, Nankai University</a>.</p>
+      <p>My research aims to build safe, reliable, and transparent AI systems, with the goal of creating a more trustworthy AI environment that addresses pressing societal needs in privacy protection, decision-making transparency, and system robustness.</p>
 
+      <div class="bio-details">
+        <h3>Research Interests</h3>
+        <ul class="icon-list">
+          <li><i class="fas fa-shield-alt"></i> Security for single-modal and multi-modal large language models</li>
+          <li><i class="fas fa-project-diagram"></i> Multi-agent collaborative systems and their security</li>
+          <li><i class="fas fa-search"></i> Interpretability of artificial intelligence</li>
+        </ul>
+      </div>
 
+      <p class="resource-note">I have organized the <a href="https://github.com/lxmliu2002/NKU-courses">lab materials</a> for the Information Security major courses at Nankai University, as well as the <a href="https://github.com/lxmliu2002/NKU-cyber">lecture notes and past exam papers</a> for theoretical courses. Detailed content can be found at <a href="https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU">Baidu Cloud</a>.</p>
+    </div>
+  </section>
 
-My primary research interests lie in the areas of **security for single-modal and multi-modal large language models**, **multi-agent collaborative systems and their security**, as well as **the interpretability of artificial intelligence**. 
+  <section class="academic-section" id="news">
+    <h2><i class="section-heading-icon fas fa-bullhorn" aria-hidden="true"></i>News</h2>
+    <ul class="news-list" data-news-list>
+      <li><time>2026.06</time><div><span class="news-category">Career</span><span class="news-title">I joined <a href="https://www.antgroup.com/">Ant Group</a> as an intern.</span></div></li>
+      <li><time>2026.06</time><div><span class="news-category">Career</span><span class="news-title">I have been accepted to the <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII International Internship Program</a> at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics (NII)</a>.</span></div></li>
+      <li><time>2025.12</time><div><span class="news-category">Award</span><span class="news-title">Our team "Marco Polo" (advised by Prof. <a href="https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm">Yong Qin</a>, led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at <a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">the 2025 Tencent Kaiwu AI Global Open Challenge</a>(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!</span></div></li>
+      <li><time>2025.12</time><div><span class="news-category">Paper</span><span class="news-title">Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026 (CCF-A, one of the top four security conferences) — see you in Baltimore!</span></div></li>
+      <li><time>2025.11</time><div><span class="news-category">Award</span><span class="news-title">Our project <em>"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"</em> won the <strong>National Excellence Award</strong> at the <a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew">2025 National Disruptive Technology Innovation Competition</a>(全国颠覆性技术创新大赛, in Chinese), ranking among the top entries out of over 2,200 submissions nationwide!</span></div></li>
+      <li><time>2025.10</time><div><span class="news-category">Award</span><span class="news-title">Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned <a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">Raft Master (Top Prize)</a> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation".</span></div></li>
+      <li><time>2025.09</time><div><span class="news-category">Career</span><span class="news-title">I am leaving <a href="https://www.antgroup.com/">Ant Group</a>'s <a href="https://antcplab.github.io/">Cryptology Lab</a> after a great internship.</span></div></li>
+      <li><time>2025.09</time><div><span class="news-category">Paper</span><span class="news-title">Paper <a href="https://github.com/XOTaichi/Security-Cube-Artifact">“SoK: Robustness in Large Language Models against Jailbreak Attacks”</a> (with Feiyue Xu) accepted by IEEE S&amp;P 2026 (CCF-A, one of the top four security conferences).</span></div></li>
+      <li><time>2025.08</time><div><span class="news-category">Research</span><span class="news-title">My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!</span></div></li>
+      <li><time>2025.08</time><div><span class="news-category">Update</span><span class="news-title">After communicating with GitHub's support team for a full month, the website has finally been restored!</span></div></li>
+      <li><time>2025.08</time><div><span class="news-category">Resource</span><span class="news-title">I have organized the <a href="https://github.com/lxmliu2002/NKU-courses">lab materials</a> for the Information Security major courses at Nankai University, as well as the <a href="https://github.com/lxmliu2002/NKU-cyber">lecture notes and past exam papers</a> for theoretical courses. Detailed content can be found at <a href="https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU">Baidu Cloud</a>.</span></div></li>
+      <li><time>2025.07</time><div><span class="news-category">Award</span><span class="news-title">Our case study on <em>"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"</em> was awarded the <strong>"AI &amp; SDGs: Top 10 Beacon Initiatives"</strong> at the 2025 World Artificial Intelligence Conference.</span></div></li>
+      <li><time>2025.06</time><div><span class="news-category">Career</span><span class="news-title">I joined <a href="https://www.antgroup.com/">Ant Group</a>'s <a href="https://antcplab.github.io/">Cryptology Lab</a> as an intern.</span></div></li>
+      <li><time>2025.06</time><div><span class="news-category">Education</span><span class="news-title">I obtained a Bachelor of Engineering degree from <a href="https://www.nankai.edu.cn/">Nankai University</a>.</span></div></li>
+    </ul>
+    <button class="news-toggle" type="button" data-news-toggle aria-expanded="false"><span>Show all news</span><i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+  </section>
 
-My research aims to build safe, reliable, and transparent AI systems, with the goal of creating a more trustworthy AI environment that addresses pressing societal needs in privacy protection, decision-making transparency, and system robustness.
-
-You can contact me via the following emails:
-
-  - lxmliu2002 *[at]* 126.com
-
-  - lxmliu2002 *[at]* gmail.com
-
-  - lxmliu2002 *[at]* mail.nankai.edu.cn
-
-  - liuxiuming.lxm *[at]* antgroup.com
-
-  - lxmliu2002 *[at]* sjtu.edu.cn
-<!--  - ~~liuxiuming.lxm *[at]* antgroup.com ~~ ***(expired)***-->
-
-
-
-<!-- Our team is affiliated with the [Institute of Information Security and Cryptology](https://www.cs.sjtu.edu.cn/yjjg/807.html), School of Computer Science, Shanghai Jiao Tong University. We welcome students passionate about AI security, multi-agent systems, and AI for Medical applications—<span style="color:red; font-weight:bold">including prospective master’s/PhD students and research interns</span>. We offer guidance on <span style="color:red; font-weight:bold">paper writing, industry-oriented project development, and can provide recommendation letters</span>. -->
-
-I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-</section>
-
-
-<section id="news" class="home-section home-section--news" markdown="1">
-
-<h1>🔥 News</h1>
-
-*2026.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/) as an intern. 
-
-*2026.06*: &nbsp;🎉 I have been accepted to the [NII International Internship Program](https://www.nii.ac.jp/en/about/international/mouresearch/) at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/).
-
-*2025.12*: &nbsp;🎉 Our team "Marco Polo" (advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at [the 2025 Tencent Kaiwu AI Global Open Challenge](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw)(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!
-
-*2025.12*: &nbsp;🎉 Paper “Quantifying Large Language Model Attacks Through the Lens of Model Cognition” (first-authored) accepted by USENIX Security 2026(CCF-A, one of the top four security conferences) — see you in Baltimore!
-
-*2025.11*: &nbsp;🎉 Our project *"Multimodal Large Model-Driven Transparent Diagnosis Pod for Precision Gastrointestinal Disease Screening"* won the **National Excellence Award** at the [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛, in Chinese), ranking among the top entries out of over 2,200 submissions nationwide!
-
-*2025.10*: &nbsp;🎉 Our project "‘Youan: Multi-Agent AI Chain for End-to-End Disaster Response" was crowned [Raft Master (Top Prize)](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg) in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛, in Chinese) under SH-23: "Multimodal-based Catastrophe Early Warning and Loss Mitigation".
-
-*2025.09*: &nbsp;👋 I am leaving [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) after a great internship.
-
-*2025.09*: &nbsp;🎉 Paper [“SoK: Robustness in Large Language Models against Jailbreak Attacks”](https://github.com/XOTaichi/Security-Cube-Artifact) (with Feiyue Xu) accepted by IEEE S&P 2026(CCF-A, one of the top four security conferences).
-
-*2025.08*: &nbsp;🎉 My research has been officially registered with the China Copyright Protection Center, and the technology has been successfully deployed by a cybersecurity unit, achieving tangible results in real-world applications. Many thanks to all collaborators and mentors for their invaluable support and guidance!
-
-*2025.08*: &nbsp;😭 After communicating with GitHub's support team for a full month, the website has finally been restored!
-
-*2025.08*: &nbsp;🎉 I have organized the [lab materials](https://github.com/lxmliu2002/NKU-courses) for the Information Security major courses at Nankai University, as well as the [lecture notes and past exam papers](https://github.com/lxmliu2002/NKU-cyber) for theoretical courses. Detailed content can be found at [Baidu Cloud](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU).
-
-*2025.07*: &nbsp;🎉 Our case study on *"Multimodal Large Models Empowering Early Screening and Accurate Diagnosis of Serious Diseases"* was awarded the **"Al & SDGs: Top 10 Beacon Initiatives"** at the 2025 World Artificial Intelligence Conference(2025世界人工智能大会“全球AI赋能可持续发展十大卓越案例”, in Chinese).
-
-*2025.06*: &nbsp;🎉 I joined [Ant Group](https://www.antgroup.com/)'s [Cryptology Lab](https://antcplab.github.io/) as an intern. 
-
-*2025.06*: &nbsp;🎉 I obtained a Bachelor of Engineering degree from [Nankai University](https://www.nankai.edu.cn/). 
-
-</section>
-
-<!-- 
-
-<span class='anchor' id='publications'></span>
-
-<h1>📝 Publications</h1>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-
-
-
-<section id="publications" class="home-section home-section--publications" markdown="1">
-
-<h1>📝 Publications</h1>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">USENIX Security 2026</div>
-            <img src='images/publications/security26.svg' alt="Sentinel Framework" width="100%">
+  <section class="academic-section" id="education">
+    <span class="anchor-alias" id="educations"></span>
+    <h2><i class="section-heading-icon fas fa-graduation-cap" aria-hidden="true"></i>Education</h2>
+    <div class="experience-list">
+      <article class="experience-row">
+        <div class="org-logo org-logo--seal"><img src="/images/sjtu_logo.png" alt="Shanghai Jiao Tong University logo"></div>
+        <div class="experience-main">
+          <h3><a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a></h3>
+          <p class="position">Master of Network and Information Security · <a href="https://www.cs.sjtu.edu.cn/">School of Computer Science</a></p>
+          <p>Laboratory of Cryptography and Computer Security (LoCCS), Supervisor: <a href="https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181">Shuo Wang</a></p>
         </div>
-    </div>
-    <div class='paper-box-text' markdown="1">
-
-[Quantifying Large Language Model Attacks Through the Lens of Model Cognition](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming)
-<!-- Quantifying Large Language Model Attacks Through the Lens of Model Cognition -->
-
-<p>
-    <span class="paper-role-badge">Co-first Author</span>
-    <span class="paper-time-badge">USENIX Security 2026</span>
-</p>
-
-<div class="paper-authors">
-    <strong>Xiuming Liu*</strong>, Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
-</div>
-
-<!-- <strong><em>Xiuming Liu</em></strong>, <em>Chaoxiang He</em>, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup> -->
-
-<!-- [**Project**](https://zenodo.org/records/17959094)  -->
-- **Discovery of "Cognitive Dissonance" in LLMs**: Revealed a systematic recognition-enforcement gap where intermediate hidden states can distinguish harmful intent with **90%+ accuracy** , yet the final decoder often prioritizes instruction-following over internal safety signals. Proposed the **"Inside-out" (Inside2Out)** safety alignment paradigm based on these findings.
-- **Quantitative Attack & Trajectory Metrics**: Developed the **Attack Consistency Index (ACI)** and layer-wise cognitive drift metrics, providing the first quantitative map of how malicious prompts evolve, propagate, and degrade across the transformer stack.
-- **Lightweight Multi-Layer Sentinel**: Introduced a robust **Multi-Layer Sentinel** mechanism (< 5M parameters) leveraging the functional complementarity of hidden layers. It maintains over **94% detection accuracy** under white-box adaptive attacks, significantly outperforming the state-of-the-art baselines.
-
-<!-- - 揭示了LLM内部的“认知失调”现象，即模型中间层隐藏状态已能**区分有害意图（准确率高达90\%+）**，但最终解码器常选择遵守任务而忽略安全信号。据此提出“由内而外（Inside2Out）”的安全对齐新范式 。
-- 设计了**攻击能力指数** 与层级认知漂移度量标准，首次定量绘制了恶意提示在模型中的认知演变轨迹图。
-- 提出基于隐藏层间安全能力互补性的轻量级**多层哨兵（Multi-Layer Sentinel）**机制，在多个基准测试取得了较好的效果，且在白盒自适应攻击下仍保持**94\%以上**的检测精度，表现显著优于各种基线方法。 -->
-</div>
-</div>
-
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">IEEE S&P 2026</div>
-            <img src='images/publications/sp26.svg' alt="Security Cube Framework" width="100%">
+        <div class="experience-meta"><strong>2025.09 – Present</strong><span>Shanghai, China</span></div>
+      </article>
+      <article class="experience-row">
+        <div class="org-logo org-logo--seal"><img src="/images/nku_logo.png" alt="Nankai University logo"></div>
+        <div class="experience-main">
+          <h3><a href="https://www.nankai.edu.cn/">Nankai University</a></h3>
+          <p class="position">Bachelor of Information Security · <a href="https://cyber.nankai.edu.cn/">College of Cryptology and Cyber Science</a></p>
+          <p>Ranked 1st in the grade</p>
         </div>
+        <div class="experience-meta"><strong>2021.09 – 2025.06</strong><span>Tianjin, China</span></div>
+      </article>
     </div>
-    <div class='paper-box-text' markdown="1">
+  </section>
 
-[SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058)
-
-<p>
-    <span class="paper-role-badge">Core Contributor</span>
-    <span class="paper-time-badge">IEEE S&P 2026</span>
-</p>
-
-<div class="paper-authors">
-    Feiyue Xu, Hongsheng Hu, Chaoxiang He, Sheng Hang, Hanqing Hu, <strong>Xiuming Liu</strong>, Yubo Zhao, Zhengyan Zhou, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup>
-</div>
-
-[**Project**](https://github.com/XOTaichi/Security-Cube-Artifact)
-- **Security Cube Evaluation Framework**: Designed **Security Cube**, a holistic evaluation paradigm integrating 14 quantitative metrics across attacker, defender, and judge axes. It introduces novel measures like **Attack Stability**, **Cross-model Transferability (CIPA)**, and **Depth of Disruption** to capture the multi-dimensional nature of LLM security.
-- **Large-scale Empirical Benchmarking**: Conducted comprehensive studies spanning 13 representative attacks and 5 defenses across model scales from 7B to 671B. Analyzed over **48,000+ attack attempts** to establish a clear landscape of current LLM vulnerabilities and defense-in-depth alignment.
-- **Insight on Generative Priors**: Revealed that reasoning-aligned models (e.g., Claude-3.7, o1-mini) exhibit a qualitative leap in robustness. Quantitatively proved that shared "generative priors" and autoregressive biases form systemic vulnerabilities that transcend architectures, providing theoretical support for representational governance.
-- **Systematic Taxonomy**: Systematized the jailbreak landscape into a novel taxonomy based on dominant mechanisms, categorizing 7 types of attacks (e.g., Logprob, Multi-round) and 5 stages of defense deployment (e.g., Pre-filter, Intra-process).
-
-</div>
-</div>
-
-
-</section>
-
-<section id="projects" class="home-section home-section--projects" markdown="1">
-
-<h1>⚙️ Projects</h1>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Vulnerability Wiki</div>
-      <img src='images/projects/VulnerabilityWiki.png' alt="Vulnerability Wiki" width="100%">
+  <section class="academic-section" id="experience">
+    <span class="anchor-alias" id="internships"></span>
+    <h2><i class="section-heading-icon fas fa-briefcase" aria-hidden="true"></i>Research &amp; Industry Experience</h2>
+    <div class="experience-list">
+      <article class="experience-row">
+        <div class="org-logo"><img src="/images/ant_logo.png" alt="Ant Group logo"></div>
+        <div class="experience-main">
+          <h3><a href="https://www.antgroup.com/">Ant Group</a></h3>
+          <p class="position">Security Business Group · Agent Security Team</p>
+          <p>Supervisors: <a href="https://linkedin.com/in/chaofeng914">Chao Feng</a> and <a href="https://lsplx.github.io/lsplx">Zhiyuan Chang</a></p>
+        </div>
+        <div class="experience-meta"><strong>2026.06 – Present</strong><span>Beijing, China</span></div>
+      </article>
+      <article class="experience-row">
+        <div class="org-logo"><img src="/images/ant_logo.png" alt="Ant Group logo"></div>
+        <div class="experience-main">
+          <h3><a href="https://www.antgroup.com/">Ant Group</a></h3>
+          <p class="position"><a href="https://antcplab.github.io/">Cryptology Lab</a></p>
+          <p>Supervisor: <a href="https://zicofish.github.io/">Zhicong Huang</a></p>
+        </div>
+        <div class="experience-meta"><strong>2025.06 – 2025.09</strong><span>Hangzhou, China</span></div>
+      </article>
+      <article class="experience-row">
+        <div class="org-logo org-mark" aria-label="Wuxi Blockchain Advanced Research Center">WARC</div>
+        <div class="experience-main">
+          <h3>Wuxi Blockchain Advanced Research Center</h3>
+          <p class="position">Artificial Intelligence and Data Security Lab</p>
+          <p>Supervisor: <a href="https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181">Shuo Wang</a></p>
+        </div>
+        <div class="experience-meta"><strong>2025.01 – 2025.06</strong><span>Wuxi, China</span></div>
+      </article>
     </div>
-  </div>
 
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://www.vul-wiki.org/" target="_blank" rel="noopener"><strong>Vulnerability Wiki: a Comprehensive, Systematic and Multi-dimensional Knowledge-sharing Community for Vulnerabilities</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">Aug 2025 – Oct 2025</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Systematically organize the principles, attack techniques, detection, and defense methods of various vulnerabilities.</li>
-      <li>Track high-risk CVE cases, combining reproduction environments and exploitation chain analysis
-Provide learning materials tailored to different technical skill levels.</li>
-      <li>Pool community efforts to collaboratively build an open and shared vulnerability encyclopedia.</li>
-    </ul>
-  </div>
-</div>
+  </section>
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Youan</div>
-      <img src='images/projects/youan.svg' alt="Mingqi" width="100%">
+  <section class="academic-section" id="publications">
+    <h2><i class="section-heading-icon fas fa-file-alt" aria-hidden="true"></i>Featured Publications</h2>
+    <p class="section-note">My name is highlighted in bold.</p>
+    <div class="publication-list">
+      <article class="publication-row">
+        <div class="venue-badge venue-badge--review"><strong>Under Review</strong><span>2026</span></div>
+        <div>
+          <h3>How Far Does the Poison Travel? Benchmarking Protocol Exploits Across Long-Horizon Tasks in Multi-Agent Systems</h3>
+          <p class="authors"><strong>Xiuming Liu</strong></p>
+          <ul class="publication-points">
+            <li><strong>End-to-End Protocol-Risk Benchmark:</strong> Introduced PROTOECHO to trace protocol exploits from boundary admission through agent consumption and multi-agent propagation to task consequences and user outcomes across A2A, ANP, and BCS.</li>
+            <li><strong>Long-Horizon Matched Evaluation:</strong> Evaluated 975 matched malicious-benign task pairs across five domains and three frontier models, showing that over 90% boundary-level attack success does not consistently translate into downstream harm.</li>
+            <li><strong>Auditability and Mitigation:</strong> Revealed a major attribution gap between native protocol logs and cross-node evidence, and demonstrated that a downstream protocol-level guard substantially reduces both attack success and harmful task consequences while largely preserving task completion.</li>
+          </ul>
+          <div class="pub-links"><span>First Author</span></div>
+        </div>
+      </article>
+      <article class="publication-row">
+        <div class="venue-badge"><strong>USENIX Security</strong><span>2026</span></div>
+        <div>
+          <h3><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming">Quantifying Large Language Model Attacks Through the Lens of Model Cognition</a></h3>
+          <p class="authors"><strong>Xiuming Liu*</strong>, Chaoxiang He*, Xuanran Yu, Jichen Chai, Feiyue Xu, Sheng Hang, Hanqing Hu, Bin Benjamin Zhu, Hongsheng Hu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup></p>
+          <ul class="publication-points">
+            <li><strong>Discovery of "Cognitive Dissonance" in LLMs:</strong> Revealed a systematic recognition-enforcement gap where intermediate hidden states can distinguish harmful intent with 90%+ accuracy, yet the final decoder often prioritizes instruction-following over internal safety signals.</li>
+            <li><strong>Quantitative Attack &amp; Trajectory Metrics:</strong> Developed the Attack Consistency Index (ACI) and layer-wise cognitive drift metrics.</li>
+            <li><strong>Lightweight Multi-Layer Sentinel:</strong> Introduced a robust mechanism under 5M parameters that maintains over 94% detection accuracy under white-box adaptive attacks.</li>
+          </ul>
+          <div class="pub-links"><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming">Paper</a><span>Co-first Author</span></div>
+        </div>
+      </article>
+      <article class="publication-row">
+        <div class="venue-badge"><strong>IEEE S&amp;P</strong><span>2026</span></div>
+        <div>
+          <h3><a href="https://arxiv.org/abs/2605.05058">SoK: Robustness in Large Language Models against Jailbreak Attacks</a></h3>
+          <p class="authors">Feiyue Xu, Hongsheng Hu, Chaoxiang He, Sheng Hang, Hanqing Hu, <strong>Xiuming Liu</strong>, Yubo Zhao, Zhengyan Zhou, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang<sup>†</sup></p>
+          <ul class="publication-points">
+            <li><strong>Security Cube Evaluation Framework:</strong> Designed a holistic evaluation paradigm integrating 14 quantitative metrics across attacker, defender, and judge axes.</li>
+            <li><strong>Large-scale Empirical Benchmarking:</strong> Studied 13 representative attacks and 5 defenses across model scales from 7B to 671B using more than 48,000 attack attempts.</li>
+            <li><strong>Systematic Taxonomy:</strong> Systematized seven attack types and five stages of defense deployment.</li>
+          </ul>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2605.05058">Paper</a><a href="https://github.com/XOTaichi/Security-Cube-Artifact">Project</a><span>Core Contributor</span></div>
+        </div>
+      </article>
     </div>
-  </div>
+  </section>
 
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg" target="_blank" rel="noopener"><strong>“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Core Leader</span>
-      <span class="paper-time-badge">May 2025 – Oct 2025</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Designed a “multi-modality fusion encoder + WARM expert agent swarm + panoramic cockpit with safety foundation” tripartite architecture to tackle data fusion, cross-phase coordination, and trustworthiness in AI-driven disaster response.</li>
-      <li>Enabled real-time, voice-controlled AR-assisted field operations for frontline responders, achieving “one-person army” situational awareness during large-scale emergencies.</li>
-      <li>Deployed the system in public safety, insurance assessment, and healthcare domains.</li>
-      <li>Awarded <strong>Raft Master (Top Prize)</strong> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge under SH-23: “Multimodal-based Catastrophe Early Warning and Loss Mitigation.”</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Mingqi</div>
-      <img src='images/projects/mingqi.svg' alt="Mingqi" width="100%">
+  <section class="academic-section" id="projects">
+    <h2><i class="section-heading-icon fas fa-code" aria-hidden="true"></i>Selected Projects</h2>
+    <div class="project-list">
+      <article class="project-row">
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="https://www.vul-wiki.org/">Vulnerability Wiki: a Comprehensive, Systematic and Multi-dimensional Knowledge-sharing Community for Vulnerabilities</a></h3><div class="project-meta"><span>Team Member</span><time>Aug. 2025 – Oct. 2025</time></div></div>
+        <ul><li>Systematically organize the principles, attack techniques, detection, and defense methods of various vulnerabilities.</li><li>Track high-risk CVE cases, combining reproduction environments and exploitation chain analysis.</li><li>Provide learning materials tailored to different technical skill levels.</li><li>Pool community efforts to collaboratively build an open and shared vulnerability encyclopedia.</li></ul>
+      </article>
+      <article class="project-row">
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">“Youan” Multi-Agent AI Chain for End-to-End Disaster Response</a></h3><div class="project-meta"><span>Core Leader</span><time>May 2025 – Oct. 2025</time></div></div>
+        <ul><li>Designed a “multi-modality fusion encoder + WARM expert agent swarm + panoramic cockpit with safety foundation” tripartite architecture to tackle data fusion, cross-phase coordination, and trustworthiness in AI-driven disaster response.</li><li>Enabled real-time, voice-controlled AR-assisted field operations for frontline responders.</li><li>Deployed the system in public safety, insurance assessment, and healthcare domains.</li><li>Awarded <strong>Raft Master (Top Prize)</strong> in the AI Track of the 2025 China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge.</li></ul>
+      </article>
+      <article class="project-row">
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="http://mingqi.sh.cn/">“Mingqi” Medical Imaging Large Model Matrix</a></h3><div class="project-meta"><span>Subproject Leader</span><time>Dec. 2024 – Present</time></div></div>
+        <ul><li>Multi-granularity features + domain-specific LLM → endoscopic reports with more than 20% higher semantic similarity.</li><li>Enhanced cross-modal image-text retrieval via fine-tuned PMC-CLIP, achieving more than 30% higher accuracy.</li><li>Built a 20-hour Mandarin medical speech corpus, reducing ASR false positive rate by more than 20%.</li><li>Recognized as one of the Top 10 AI Application Scenarios at the 2nd Belt and Road Sci-Tech Exchange Conference and awarded Top 10 Outstanding Cases of AI for Sustainable Development.</li></ul>
+      </article>
+      <article class="project-row">
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="https://github.com/InfinityUniverse0/ArXivToday-Lark">ArXivToday-Lark: Automated arXiv Paper Delivery for Lark Teams</a></h3><div class="project-meta"><span>Key Team Member</span><time>Mar. 2025</time></div></div>
+        <ul><li>Developed a lightweight automation tool that fetches the latest arXiv papers daily and delivers them directly to Lark group chats via a custom bot.</li><li>Features include scheduled fetching, customizable topic filters, LLM-powered paper summarization and translation, and influence prediction.</li></ul>
+      </article>
+      <article class="project-row">
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="https://tianchi.aliyun.com/competition/entrance/532268">T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies</a></h3><div class="project-meta"><span>Key Team Member</span><time>Sep. 2024 – Oct. 2024</time></div></div>
+        <ul><li>Designed multi-level attack strategies to expose vulnerabilities in T2I models.</li><li>Implemented a unified attack and evaluation framework for efficient and stealthy rewriting of harmful prompts.</li><li>Participated in framework design and attack-scheme testing; built an attack knowledge base and automatic prompt sanitization.</li></ul>
+      </article>
+      <article class="project-row">
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="https://mlm01.com">Web3_MLM: Intelligent Reverse Analysis for Solidity Smart Contracts</a></h3><div class="project-meta"><span>Team Member</span><time>Jan. 2024 – Apr. 2024</time></div></div>
+        <ul><li>Supervisor: <a href="https://netsec.ccert.edu.cn/chs/people/chaoz/">Chao Zhang</a>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University.</li><li>Web3_MLM is a subset of the <a href="https://mlm01.com">MLM</a> project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li><li>Constructed a high-quality dataset containing Solidity source code, assembly code, and bytecode at contract-level and function-level granularity.</li></ul>
+      </article>
     </div>
-  </div>
+  </section>
 
-  <div class='paper-box-text'>
-    <p>
-      <a href="http://mingqi.sh.cn/" target="_blank" rel="noopener"><strong>“Mingqi” Medical Imaging Large Model Matrix</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Subproject Leader</span>
-      <span class="paper-time-badge">Dec 2024 – Present</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Multi-granularity features + domain-specific LLM → endoscopic reports with >20% higher semantic similarity.</li>
-      <li>Enhanced cross-modal image-text retrieval via fine-tuned PMC-CLIP, achieving precise case matching with >30% higher accuracy.</li>
-      <li>Built 20-hr Mandarin medical speech corpus (via voice cloning), reducing ASR false positive rate by >20%.</li>
-      <li>Recognized as one of the Top 10 AI Application Scenarios at the 2nd Belt and Road Sci-Tech Exchange Conference; awarded Top 10 Outstanding Cases of AI for Sustainable Development.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ArXivToday</div>
-      <img src='images/projects/arxiv.png' alt="ArXivToday-Lark" width="100%">
+  <section class="academic-section" id="awards">
+    <span class="anchor-alias" id="honors-and-awards"></span>
+    <h2><i class="section-heading-icon fas fa-trophy" aria-hidden="true"></i>Awards &amp; Honors</h2>
+    <div class="awards-grid">
+      <div><strong><a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">Double Championship, 2025 Tencent Kaiwu AI Global Open Challenge</a></strong><span>2025.12</span></div>
+      <div><strong><a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew">National Excellence Award, National Disruptive Technology Innovation Competition</a></strong><span>2025.11</span></div>
+      <div><strong><a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">Raft Master (Top Prize), China Youth Sci-Tech Innovation Challenge</a></strong><span>2025.10</span></div>
+      <div><strong>Top 10 Outstanding Cases of AI for Sustainable Development</strong><span>2025.07</span></div>
+      <div><strong>Outstanding Student Party Member of Nankai University</strong><span>2025.06</span></div>
+      <div><strong>Head of Red Flag Party Branch of Nankai University</strong><span>2025.06</span></div>
+      <div><strong><a href="https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44">Zhou Enlai Scholarship</a> · Highest scholarship of Nankai University</strong><span>2025.05</span></div>
+      <div><strong>First Prize of Yun'an Cryptography Innovation Scholarship</strong><span>2025.04</span></div>
+      <div><strong>National Scholarship · Top 1%</strong><span>2024.12</span></div>
+      <div><strong>Outstanding Student of Nankai University</strong><span>2024.12</span></div>
+      <div><strong>Ninety-five Core Scholarship, Nankai University</strong><span>2024.12</span></div>
+      <div><strong>Outstanding Student Cadre of Tianjin</strong><span>2024.12</span></div>
+      <div><strong>Third Prize, National College Students' Computer System Ability Competition</strong><span>2024.08</span></div>
+      <div><strong>Head of the “I Do Practical Things for My Classmates” Excellent Project</strong><span>2024.06</span></div>
+      <div><strong>Second Prize, Tianjin Division of National College Students' Mathematical Modeling Competition</strong><span>2023.11</span></div>
+      <div><strong>National Scholarship · Top 1%</strong><span>2022.12</span></div>
     </div>
-  </div>
+  </section>
 
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/InfinityUniverse0/ArXivToday-Lark" target="_blank" rel="noopener"><strong>ArXivToday-Lark: Automated arXiv Paper Delivery for Lark Teams</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Key Team Member</span>
-      <span class="paper-time-badge">Mar 2025 – Mar 2025</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Developed a lightweight automation tool that fetches the latest arXiv papers daily and delivers them directly to Lark group chats via a custom bot, streamlining research discovery for academic teams.</li>
-      <li>Features include scheduled fetching, customizable topic filters, LLM-powered paper summarization and translation, and influence prediction (in development).</li>
-      <li>Designed for extensibility—supports integration with other messaging platforms and backend enhancements for intelligent paper recommendation.</li>
-    </ul>
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">T2I-Fuzzer</div>
-      <img src='images/projects/t2i.png' alt="T2I-Fuzzer" width="100%">
+  <section class="academic-section" id="services">
+    <h2><i class="section-heading-icon fas fa-handshake" aria-hidden="true"></i>Professional Service</h2>
+    <div class="service-grid">
+      <div class="service-item">
+        <span class="service-icon" aria-hidden="true"><i class="fas fa-search"></i></span>
+        <strong>Reviewer</strong>
+        <span>IEEE TIFS, IEEE TDSC, IEEE EuroS&amp;P, and related security/AI venues</span>
+      </div>
+      <div class="service-item">
+        <span class="service-icon" aria-hidden="true"><i class="fas fa-chalkboard-teacher"></i></span>
+        <strong>Teaching Assistant</strong>
+        <span>Advanced Mathematics, Operating Systems, Advanced Language Programming (C++), Fundamentals of Artificial Intelligence</span>
+      </div>
     </div>
-  </div>
+  </section>
 
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://tianchi.aliyun.com/competition/entrance/532268" target="_blank" rel="noopener"><strong>T2I-Fuzzer: Jailbreaking Text-to-Image Large Models via Hybrid Strategies</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Key Team Member</span>
-      <span class="paper-time-badge">Sep 2024 – Oct 2024</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Designed multi-level attack strategies to expose vulnerabilities in T2I models, optimizing adversarial efficacy from a zero-sum game perspective.</li>
-      <li>Implemented a unified attack and evaluation framework, enabling efficient and stealthy rewriting of harmful prompts to bypass safety filters in T2I systems.</li>
-      <li>Participated in the overall framework design and conducted testing of attack schemes such as adversarial captioning; built an attack knowledge base and implemented automatic prompt sanitization.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Web3_MLM</div>
-      <img src='images/projects/mlm.png' alt="Web3_MLM" width="100%">
+  <section class="academic-section contact-section" id="contact">
+    <span class="anchor-alias" id="beyond-academics"></span>
+    <h2><i class="section-heading-icon fas fa-envelope" aria-hidden="true"></i>Contact</h2>
+    <div class="contact-grid">
+      <div>
+        <h3>Email</h3>
+        <ul class="contact-list" data-contact-list>
+          <li>lxmliu2002 <em>[at]</em> 126.com</li>
+          <li>lxmliu2002 <em>[at]</em> gmail.com</li>
+          <li>lxmliu2002 <em>[at]</em> sjtu.edu.cn</li>
+          <li class="contact-secondary">lxmliu2002 <em>[at]</em> mail.nankai.edu.cn</li>
+          <li class="contact-secondary">liuxiuming.lxm <em>[at]</em> antgroup.com</li>
+        </ul>
+        <button class="contact-toggle" type="button" data-contact-toggle aria-expanded="false"><span>Show all email addresses</span><i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+      </div>
+      <div>
+        <h3>Beyond Academics</h3>
+        <p>I like <strong>music, billiards, traveling and badminton</strong>. At the same time, I am also keen to try various positions of student work. I am a <strong>warm-hearted person</strong>. If you encounter any problems, you can always come to me and I will do my best to help you.</p>
+      </div>
     </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://mlm01.com" target="_blank" rel="noopener"><strong>Web3_MLM: Intelligent Reverse Analysis for Solidity Smart Contracts</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">Jan 2024 – Apr 2024</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Supervisor: <strong><a href="https://netsec.ccert.edu.cn/chs/people/chaoz/" target="_blank" rel="noopener noreferrer">Chao Zhang</a></strong>, Associate Professor, Tenured, Deputy Director of Institute for Network Sciences, Tsinghua University</li>
-      <li>Web3_MLM is a subset of the <strong><a href="https://mlm01.com" target="_blank" rel="noopener noreferrer">MLM</a></strong> project, providing an intelligent reverse analysis solution for Solidity smart contracts.</li>
-      <li>Constructed a high-quality, comprehensive dataset containing Solidity source code, assembly code, and bytecode; performed data augmentation and aligned data formats at both contract-level and function-level granularity.</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Hidden projects: RMDB, SysY-to-ARM, CodeHint, JingZhiYao, and Zouma.
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RMDB</div>
-      <img src='images/projects/RMDB.jpg' alt="RMDB" width="100%">
+    <div class="institution-logos" aria-label="Affiliations">
+      <img src="/images/nku_logo.png" alt="Nankai University logo">
+      <img src="/images/ant_logo.png" alt="Ant Group logo">
+      <img src="/images/sjtu_logo.png" alt="Shanghai Jiao Tong University logo">
     </div>
-  </div>
+  </section>
 
-  <div class='paper-box-text'>
-    <p>
-      <strong>RMDB: Database Management System for the National Contest on System Capacity</strong>
-    </p>
-    <p>
-      <span class="paper-role-badge">Key Team Member</span>
-      <span class="paper-time-badge">May 2024 – Aug 2024</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Enhanced a database management system within a given framework to support MySQL-like SQL functionalities.</li>
-      <li>Implemented storage management module, contributing to over 35% of the team's completed tasks in the preliminary round.</li>
-      <li>Participated in optimizing the <code>COUNT(*)</code> etc. query, achieving approximately 10% performance improvement.</li>
-    </ul>
-  </div>
+  <footer class="academic-footer">
+    <!-- Design attribution and upstream licenses are documented in README.md and LICENSE. -->
+    <p>&copy; {{ site.time | date: "%Y" }} <a href="https://github.com/lxmliu2002">Xiuming Liu</a>.</p>
+    <p>Last modified: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %d, %Y" }}</time></p>
+  </footer>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">SysY-to-ARM</div>
-      <img src='images/projects/sysy.png' alt="SysY-to-ARM Compiler" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/lxmliu2002/Principles_of_Compilation_Systems" target="_blank" rel="noopener"><strong>SysY-to-ARM Compiler</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Header</span>
-      <span class="paper-time-badge">Oct 2023 – Jan 2024</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Developed a compiler from SysY (educational language) to ARM assembly in C++, covering full compilation pipeline.</li>
-      <li>Implemented lexing (Flex), parsing (Yacc), backpatching-based control flow translation, and optimizations (CSE, DCE).</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CodeHint</div>
-      <img src='images/projects/python.png' alt="Python Code Completion with Neo4j" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/lxmliu2002/ZRGJ2023" target="_blank" rel="noopener"><strong>Python Code Completion System Based on Neo4j Graph Database</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">Jul 2023 – Aug 2023</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Developed a context-aware Python code completion system using Neo4j as a graph database to infer variable types, addressing the lack of built-in type hinting in standard Python interpreters.</li>
-      <li>Responsible for syntactic analysis of input code and querying the graph database; implemented path traversal logic to retrieve successor nodes, perform type inference, and return results to the frontend.</li>
-      <li>Designed with extensibility in mind—can be adapted into a VS Code extension for real-time intelligent code suggestions.</li>
-    </ul>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">JingZhiYao</div>
-      <img src='images/projects/jingzhiyao.png' alt="JingZhiYao" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <strong>JingZhiYao: A Blockchain-Based Scheme for Precise Rumor Refutation and Traceability</strong>
-    </p>
-    <p>
-      <span class="paper-role-badge">Team Member</span>
-      <span class="paper-time-badge">May 2023 – Jul 2023</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Designed a cross-platform rumor governance scheme leveraging blockchain technology, aiming to optimize key stages in rumor management including rumor identification, precise refutation, and traceability for accountability.</li>
-      <li>Responsible for the design and implementation of the database, as well as backend database integration; achieved secure data upload, encryption, storage, and smart contract-based retrieval for message matching, verification, and filtering, supporting information traceability and evidence preservation.</li>
-    </ul>
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Zouma</div>
-      <img src='images/projects/zouma.png' alt="Zouma Game" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text'>
-    <p>
-      <a href="https://github.com/lxmliu2002/Zouma" target="_blank" rel="noopener"><strong>Zouma: A C++ Graphical Game with Winter Olympics Theme</strong></a>
-    </p>
-    <p>
-      <span class="paper-role-badge">Course Project</span>
-      <span class="paper-time-badge">Apr 2022 – May 2022</span>
-    </p>
-    <ul class="project-details-list">
-      <li>Developed a Zouma-style puzzle game in C++ using the EasyX graphics library, featuring a custom game loop, path-based ball movement, and interactive cannon control with real-time mouse tracking.</li>
-      <li>Implemented core mechanics including ball trajectory generation (via linear interpolation of key points), collision detection, ball elimination logic, and dynamic visual effects (e.g., rotating "Bing Dwen Dwen" character).</li>
-      <li>Integrated background music and sound effects using Windows MCI API; designed start screen, win/loss detection, and smooth transitions between game states.</li>
-      <li>Awarded **2nd place in class** for creativity, code quality, and user experience in the course project evaluation.</li>
-    </ul>
-  </div>
-</div>
-
-
-
--->
-</section>
-
-<section id="honors-and-awards" class="home-section home-section--honors-and-awards" markdown="1">
-
-<h1>🎖 Honors and Awards</h1>
-
-- *2025.12*： &nbsp;🎖 [Double Championship, **2025 Tencent Kaiwu AI Global Open Challenge**](https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw) (腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛 **“智能体决策算法”赛道中级组与高级组双冠军**, in Chinese) (Team "Marco Polo", advised by Prof. [Yong Qin](https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm), led by Mingjie Qi)
-
-- *2025.11*： &nbsp;🎖 National Excellence Award, [2025 National Disruptive Technology Innovation Competition](https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew)(全国颠覆性技术创新大赛 **优胜奖**, in Chinese) (Mingqi Team)
-
-- *2025.10*： &nbsp;🎖 [Raft Master (Top Prize), AI Track of the 2025 China Youth Sci-Tech Innovation “Jiebang Guashuai” Challenge](https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg)(2025中国青年科技创新“揭榜挂帅”擂台赛人工智能领域主擂台赛 **擂主**, in Chinese) (LoCCS Team)
-
-- *2025.07*: &nbsp;🎖 Top 10 Outstanding Cases of AI for Sustainable Development，Awarded to the ***Mingqi*** team at the 2nd Belt and Road Sci-Tech Exchange Conference(2025世界人工智能大会 **“全球AI赋能可持续发展十大卓越案例”**, in Chinese)  (Mingqi Team)
-
-- *2025.06*: &nbsp;🎖 Outstanding Student Party Member of Nankai University(优秀共产党员, in Chinese)
-
-- *2025.06*: &nbsp;🎖 Head of Red Flag Party Branch of Nankai University(红旗党支部**负责人**, in Chinese)
-
-- *2025.05*: &nbsp;💰 Zhou Enlai Scholarship [(the highest scholarship of Nankai University)](https://mp.weixin.qq.com/s/KnG_0Qekv1N_9SGn0ALcKw?click_id=44)(南开大学最高奖学金——周恩来奖学金, in Chinese)
-
-- *2025.04*: &nbsp;💰 First Prize of Yun'an Cryptography Innovation Scholarship(云安密码一等奖学金, in Chinese)
-
-- *2024.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
-
-- *2024.12*: &nbsp;🎖 Outstanding Student of Nankai University(南开大学三好学生, in Chinese)
-
-- *2024.12*: &nbsp;💰 Ninety-five Core Scholarship, Nankai University(南开大学“九五之‘芯’”奖学金, in Chinese) (10 Students in Nankai University)
-
-- *2024.12*: &nbsp;🎖 Outstanding Student Cadre of Tianjin(天津市优秀学生干部, in Chinese)
-
-- *2024.08*: &nbsp;🏆 Third Prize of National College Students' Computer System Ability Competition(全国大学生计算机系统能力赛**三等奖**, in Chinese)
-
-- *2024.06*: &nbsp;🎖 Head of the "I Do Practical Things for My Classmates" Excellent Project of the All-China Students' Federation(全国学生会组织“我为同学做实事”精品项目**负责人**, in Chinese)
-
-- *2023.11*: &nbsp;🏆 Second Prize of the Tianjin Division of the National College Students' Mathematical Modeling Competition(天津市数学建模比赛**二等奖**, in Chinese)
-
-- *2022.12*: &nbsp;💰 National Scholarship(国家奖学金, in Chinese) (Top 1%)
-
-
-
-
-
-
-
-</section>
-
-<section id="educations" class="home-section home-section--educations" markdown="1">
-
-<h1>📖 Educations</h1>
-
-- *2021.09 - 2025.06*, **[College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/)**
-
-  *- Bachelor of Information Security, Ranked 1st in the grade*
-
-- *2025.09 - Present*, **College of Cyber Science, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)**
-
-  *- Master of Network and Information Security*
-
-  *- Lab: Laboratory of Cryptography and Computer Security (LoCCS), Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
-
-
-
-
-
-</section>
-
-<section id="services" class="home-section home-section--services" markdown="1">
-
-<h1>🤝 Services</h1>
-
-- **Reviewer**: IEEE TIFS, IEEE TDSC, IEEE EuroS&P (and related security/AI venues)
-
-- **Teaching Assistant**: Advanced Mathematics, Operating Systems, Advanced Language Programming (C++), Fundamentals of Artificial Intelligence
-
-
-
-
-
-</section>
-
-<section id="internships" class="home-section home-section--internships" markdown="1">
-
-<h1>💻 Internships</h1>
-
-- *2026.06 - Present*, [Ant Group](https://www.antgroup.com/), Beijing, China.
-
-  *- Lab: Security Business Group, Agent Security Team, Supervisor: Chao Feng*
-
-- *2025.06 - 2025.09*, [Ant Group](https://www.antgroup.com/), Hangzhou, China.
-
-  *- Lab: [Cryptology Lab](https://antcplab.github.io/), Supervisor: Zhicong Huang*
-
-- *2025.01 - 2025.06*, Wuxi Blockchain Advanced Research Center, Wuxi, China.
-
-  *- Lab: Artificial Intelligence and Data Security Lab, Supervisor: [Shuo Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=181)*
-
-
-
-
-
-
-
-</section>
-
-<section id="beyond-academics" class="home-section home-section--beyond-academics" markdown="1">
-
-<h1>🪽 Beyond Academics</h1>
-
-I like **music, billiards, traveling and badminton**. At the same time, I am also keen to try various positions of student work. I am a **warm-hearted person**. If you encounter any problems, you can always come to me and I will do my best to help you.
-
-
-<div class="logo-row">
-  <img src="../images/nku_logo.png" alt="NKU Logo">
-  <img src="../images/ant_logo.png" alt="Ant Logo">
-  <img src="../images/sjtu_logo.png" alt="SJTU Logo">
-</div>
-
-<footer class="site-footer">
-  <p>&copy; 2025 <a href="https://github.com/lxmliu2002" target="_blank" rel="noopener">Xiuming Liu</a> all rights reserved</p>
-  <p>
-    Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank" rel="noopener">Yi Ren</a>
-  </p>
-  <p>Last modified: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %d, %Y" }}</time></p>
-</footer>
-
-</section>
+<template data-language-template="zh">
+  {% include_relative about_zh.md %}
+</template>
