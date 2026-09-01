@@ -161,7 +161,7 @@ redirect_from:
             <li><strong>Quantitative Attack &amp; Trajectory Metrics:</strong> Developed the Attack Consistency Index (ACI) and layer-wise cognitive drift metrics.</li>
             <li><strong>Lightweight Multi-Layer Sentinel:</strong> Introduced a robust mechanism under 5M parameters that maintains over 94% detection accuracy under white-box adaptive attacks.</li>
           </ul>
-          <div class="pub-links"><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming">Paper</a><span>Co-first Author</span></div>
+          <div class="pub-links"><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming">Paper</a><a href="https://github.com/lxmliu2002/LLM-Attack-Cognition-AE">Project</a><span>Co-first Author</span></div>
         </div>
       </article>
       <article class="publication-row">

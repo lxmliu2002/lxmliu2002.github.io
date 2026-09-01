@@ -141,7 +141,7 @@
             <li><strong>攻击与轨迹的量化指标：</strong>提出攻击一致性指数（ACI）和逐层认知漂移指标。</li>
             <li><strong>轻量级多层哨兵：</strong>设计参数量小于5M的鲁棒机制，在白盒自适应攻击下仍保持94%以上的检测准确率。</li>
           </ul>
-          <div class="pub-links"><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming">论文</a><span>共同第一作者</span></div>
+          <div class="pub-links"><a href="https://www.usenix.org/conference/usenixsecurity26/presentation/liu-xiuming">论文</a><a href="https://github.com/lxmliu2002/LLM-Attack-Cognition-AE">项目</a><span>共同第一作者</span></div>
         </div>
       </article>
       <article class="publication-row">
