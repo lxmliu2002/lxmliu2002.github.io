@@ -248,8 +248,8 @@
     <div class="institution-logos" aria-label="所属机构">
       <img src="/images/nku_logo.png" alt="南开大学校徽">
       <img src="/images/ant_logo.png" alt="蚂蚁集团标志">
-      <img src="/images/ant_logo.png" alt="蚂蚁集团标志">
       <img src="/images/sjtu_logo.png" alt="上海交通大学校徽">
+      <img src="/images/ant_logo.png" alt="蚂蚁集团标志">
     </div>
   </section>
 

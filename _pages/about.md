@@ -268,8 +268,8 @@ redirect_from:
     <div class="institution-logos" aria-label="Affiliations">
       <img src="/images/nku_logo.png" alt="Nankai University logo">
       <img src="/images/ant_logo.png" alt="Ant Group logo">
-      <img src="/images/ant_logo.png" alt="Ant Group logo">
       <img src="/images/sjtu_logo.png" alt="Shanghai Jiao Tong University logo">
+      <img src="/images/ant_logo.png" alt="Ant Group logo">
     </div>
   </section>
 
