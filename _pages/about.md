@@ -143,11 +143,7 @@ redirect_from:
         <div>
           <h3>How Far Does the Poison Travel? Benchmarking Protocol Exploits Across Long-Horizon Tasks in Multi-Agent Systems</h3>
           <p class="authors"><strong>Xiuming Liu</strong></p>
-          <ul class="publication-points">
-            <li><strong>End-to-End Protocol-Risk Benchmark:</strong> Introduced PROTOECHO to trace protocol exploits from boundary admission through agent consumption and multi-agent propagation to task consequences and user outcomes across A2A, ANP, and BCS.</li>
-            <li><strong>Long-Horizon Matched Evaluation:</strong> Evaluated 975 matched malicious-benign task pairs across five domains and three frontier models, showing that over 90% boundary-level attack success does not consistently translate into downstream harm.</li>
-            <li><strong>Auditability and Mitigation:</strong> Revealed a major attribution gap between native protocol logs and cross-node evidence, and demonstrated that a downstream protocol-level guard substantially reduces both attack success and harmful task consequences while largely preserving task completion.</li>
-          </ul>
+          <p>PROTOECHO evaluates whether protocol exploits in multi-agent systems propagate beyond local acceptance to cause end-to-end task and user harm.</p>
           <div class="pub-links"><span>First Author</span></div>
         </div>
       </article>

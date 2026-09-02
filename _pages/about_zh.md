@@ -123,11 +123,7 @@
         <div>
           <h3>How Far Does the Poison Travel? Benchmarking Protocol Exploits Across Long-Horizon Tasks in Multi-Agent Systems</h3>
           <p class="authors"><strong>Xiuming Liu</strong></p>
-          <ul class="publication-points">
-            <li><strong>端到端协议风险基准：</strong>提出 PROTOECHO，覆盖 A2A、ANP 和 BCS 三种协议，追踪协议攻击从边界准入、智能体消费和多智能体传播，到任务后果与用户结果的完整路径。</li>
-            <li><strong>长时程配对评测：</strong>在五个领域和三个前沿模型上评估975组恶意与良性配对任务，发现超过90%的边界攻击成功率并不会稳定转化为下游危害。</li>
-            <li><strong>可审计性与风险缓解：</strong>揭示原生协议日志与跨节点证据之间显著的归因差距，并验证下游协议级防护可在基本保持任务完成率的同时，显著降低攻击成功率和有害任务后果。</li>
-          </ul>
+          <p>PROTOECHO 评估多智能体系统中的协议攻击是否会从局部准入进一步传播，并最终造成任务级和用户级危害。</p>
           <div class="pub-links"><span>第一作者</span></div>
         </div>
       </article>
