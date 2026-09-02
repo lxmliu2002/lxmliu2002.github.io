@@ -168,7 +168,7 @@
         <ul><li>设计“多模态融合编码器 + WARM 专家智能体集群 + 安全底座全景驾驶舱”三位一体架构，解决 AI 应急响应中的数据融合、跨阶段协同与可信性问题。</li><li>为一线救援人员实现实时语音控制的 AR 辅助现场作业。</li><li>系统已应用于公共安全、保险定损和医疗健康领域。</li><li>获2025中国青年科技创新“揭榜挂帅”擂台赛 AI 赛道<strong>擂主（最高奖）</strong>。</li></ul>
       </article>
       <article class="project-row">
-        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="http://mingqi.sh.cn/">“明歧”医疗影像大模型矩阵</a></h3><div class="project-meta"><span>子项目负责人</span><time>2024.12 – 至今</time></div></div>
+        <div class="project-heading"><h3><i class="project-title-icon fas fa-folder-open" aria-hidden="true"></i><a href="http://mingqi.sh.cn/">“明歧”医疗影像大模型矩阵</a></h3><div class="project-meta"><span>子项目负责人</span><time>2024.12 – 2026.03</time></div></div>
         <ul><li>结合多粒度特征与领域大语言模型生成内镜报告，语义相似度提升20%以上。</li><li>通过微调 PMC-CLIP 增强跨模态图文检索，准确率提升30%以上。</li><li>构建20小时中文医疗语音语料库，将 ASR 误报率降低20%以上。</li><li>入选第二届“一带一路”科技交流大会十大人工智能应用场景，并获人工智能赋能可持续发展十大优秀案例。</li></ul>
       </article>
       <article class="project-row">
