@@ -593,6 +593,11 @@ html[data-theme="dark"] .theme-toggle__icon--moon {
   height: 58px;
 }
 
+.org-logo img.nii-logo {
+  width: 64px;
+  max-height: 42px;
+}
+
 .org-mark {
   color: #26394f;
   font-size: 0.8em;
@@ -968,6 +973,10 @@ html[data-theme="dark"] .theme-toggle__icon--moon {
 
 .institution-logos img:hover {
   opacity: 1;
+}
+
+.institution-logos img.nii-logo {
+  height: 52px;
 }
 
 .academic-footer {

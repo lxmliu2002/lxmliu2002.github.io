@@ -80,6 +80,15 @@ redirect_from:
     <h2><i class="section-heading-icon fas fa-graduation-cap" aria-hidden="true"></i>Education</h2>
     <div class="experience-list">
       <article class="experience-row">
+        <div class="org-logo"><img class="nii-logo" src="/images/nii_logo.svg" alt="National Institute of Informatics logo"></div>
+        <div class="experience-main">
+          <h3><a href="https://www.nii.ac.jp/en/">National Institute of Informatics (NII)</a></h3>
+          <p class="position">Visiting Intern · <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII International Internship Program</a></p>
+          <p><a href="https://cl.nii.ac.jp/">Sugawara Group</a>, Supervisor: <a href="https://www.nii.ac.jp/en/faculty/digital_content/sugawara_saku/">Saku Sugawara</a></p>
+        </div>
+        <div class="experience-meta"><strong>2026.10 – Present</strong><span>Tokyo, Japan</span></div>
+      </article>
+      <article class="experience-row">
         <div class="org-logo org-logo--seal"><img src="/images/sjtu_logo.png" alt="Shanghai Jiao Tong University logo"></div>
         <div class="experience-main">
           <h3><a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a></h3>
@@ -271,6 +280,7 @@ redirect_from:
       <img src="/images/ant_logo.png" alt="Ant Group logo">
       <img src="/images/sjtu_logo.png" alt="Shanghai Jiao Tong University logo">
       <img src="/images/ant_logo.png" alt="Ant Group logo">
+      <img class="nii-logo" src="/images/nii_logo.svg" alt="National Institute of Informatics logo">
     </div>
   </section>
 

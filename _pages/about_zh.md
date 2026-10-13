@@ -61,6 +61,15 @@
     <h2><i class="section-heading-icon fas fa-graduation-cap" aria-hidden="true"></i>教育经历</h2>
     <div class="experience-list">
       <article class="experience-row">
+        <div class="org-logo"><img class="nii-logo" src="/images/nii_logo.svg" alt="日本国立信息学研究所标志"></div>
+        <div class="experience-main">
+          <h3><a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a></h3>
+          <p class="position">访问实习生 · <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII 国际实习项目</a></p>
+          <p><a href="https://cl.nii.ac.jp/">Sugawara 课题组</a>，导师：<a href="https://www.nii.ac.jp/en/faculty/digital_content/sugawara_saku/">Saku Sugawara</a></p>
+        </div>
+        <div class="experience-meta"><strong>2026.10 – 至今</strong><span>日本，东京</span></div>
+      </article>
+      <article class="experience-row">
         <div class="org-logo org-logo--seal"><img src="/images/sjtu_logo.png" alt="上海交通大学校徽"></div>
         <div class="experience-main">
           <h3><a href="https://www.sjtu.edu.cn/">上海交通大学</a></h3>
@@ -251,6 +260,7 @@
       <img src="/images/ant_logo.png" alt="蚂蚁集团标志">
       <img src="/images/sjtu_logo.png" alt="上海交通大学校徽">
       <img src="/images/ant_logo.png" alt="蚂蚁集团标志">
+      <img class="nii-logo" src="/images/nii_logo.svg" alt="日本国立信息学研究所标志">
     </div>
   </section>
 
