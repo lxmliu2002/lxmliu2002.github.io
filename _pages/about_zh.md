@@ -37,6 +37,7 @@
   <section class="academic-section" id="news">
     <h2><i class="section-heading-icon fas fa-bullhorn" aria-hidden="true"></i>最新动态</h2>
     <ul class="news-list" data-news-list>
+      <li><time>2026.10</time><div><span class="news-category">职业</span><span class="news-title">已抵达<a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a>，正式开始<a href="https://www.nii.ac.jp/en/about/international/mouresearch/">国际实习项目</a>。</span></div></li>
       <li><time>2026.06</time><div><span class="news-category">职业</span><span class="news-title">加入<a href="https://www.antgroup.com/">蚂蚁集团</a>实习。</span></div></li>
       <li><time>2026.06</time><div><span class="news-category">职业</span><span class="news-title">获得<a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a><a href="https://www.nii.ac.jp/en/about/international/mouresearch/">国际实习项目</a>录取。</span></div></li>
       <li><time>2025.12</time><div><span class="news-category">获奖</span><span class="news-title">所在“马可波罗”战队（指导教师：<a href="https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm">秦勇</a>教授，队长：齐明杰）在<a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">2025腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛</a>“智能体决策算法”赛道包揽中级组与高级组冠军。</span></div></li>
