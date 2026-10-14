@@ -149,12 +149,16 @@ redirect_from:
     <p class="section-note">My name is highlighted in bold.</p>
     <div class="publication-list">
       <article class="publication-row">
-        <div class="venue-badge venue-badge--review"><strong>Under Review</strong><span>2026</span></div>
+        <div class="venue-badge"><strong>arXiv</strong><span>2026</span></div>
         <div>
-          <h3>How Far Does the Poison Travel? Benchmarking Protocol Exploits Across Long-Horizon Tasks in Multi-Agent Systems</h3>
-          <p class="authors"><strong>Xiuming Liu</strong></p>
-          <p>PROTOECHO evaluates whether protocol exploits in multi-agent systems propagate beyond local acceptance to cause end-to-end task and user harm.</p>
-          <div class="pub-links"><span>First Author</span></div>
+          <h3><a href="https://arxiv.org/abs/2610.15529">Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems</a></h3>
+          <p class="authors"><strong>Xiuming Liu</strong>, Le Gai, Zhiyuan Chang, Peiyang Li, Bin Zhu, Shuo Wang<sup>†</sup>, Chao Feng<sup>†</sup></p>
+          <ul class="publication-points">
+            <li><strong>End-to-end protocol risk benchmark:</strong> Evaluated five risk classes and 13 subclasses across A2A, ANP, and BCS using 975 matched malicious-benign task pairs across five business domains.</li>
+            <li><strong>Traceable consequences:</strong> Local attack success was often at least 90%, while consequence conversion ranged from 7.1% to 100%; cross-agent evidence raised macro Audit-F1 from 29.7% to 95.5%.</li>
+            <li><strong>Protocol-context defense:</strong> On Finance tasks, a Guard reduced average ASR from 86.1% to 53.8% and PTCR from 65.5% to 31.2%, with a measurable task-completion tradeoff.</li>
+          </ul>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2610.15529">Paper</a><span>First Author</span></div>
         </div>
       </article>
       <article class="publication-row">

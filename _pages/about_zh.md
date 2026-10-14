@@ -129,12 +129,16 @@
     <p class="section-note">本人姓名以粗体标出。</p>
     <div class="publication-list">
       <article class="publication-row">
-        <div class="venue-badge venue-badge--review"><strong>Under Review</strong><span>2026</span></div>
+        <div class="venue-badge"><strong>arXiv</strong><span>2026</span></div>
         <div>
-          <h3>How Far Does the Poison Travel? Benchmarking Protocol Exploits Across Long-Horizon Tasks in Multi-Agent Systems</h3>
-          <p class="authors"><strong>Xiuming Liu</strong></p>
-          <p>PROTOECHO 评估多智能体系统中的协议攻击是否会从局部准入进一步传播，并最终造成任务级和用户级危害。</p>
-          <div class="pub-links"><span>第一作者</span></div>
+          <h3><a href="https://arxiv.org/abs/2610.15529">Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems</a></h3>
+          <p class="authors"><strong>Xiuming Liu</strong>, Le Gai, Zhiyuan Chang, Peiyang Li, Bin Zhu, Shuo Wang<sup>†</sup>, Chao Feng<sup>†</sup></p>
+          <ul class="publication-points">
+            <li><strong>端到端协议风险评测：</strong>覆盖 A2A、ANP 和 BCS 中的5类风险与13个子类，构建跨5个业务领域的975组恶意—良性配对任务。</li>
+            <li><strong>追踪攻击后果：</strong>本地攻击成功率通常不低于90%，后果转化率为7.1%至100%；跨智能体证据将宏平均 Audit-F1 从29.7%提升至95.5%。</li>
+            <li><strong>协议上下文防御：</strong>在金融任务中，Guard 将平均 ASR 从86.1%降至53.8%，将 PTCR 从65.5%降至31.2%，同时带来可测量的任务完成率权衡。</li>
+          </ul>
+          <div class="pub-links"><a href="https://arxiv.org/abs/2610.15529">论文</a><span>第一作者</span></div>
         </div>
       </article>
       <article class="publication-row">
