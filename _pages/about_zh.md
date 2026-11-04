@@ -37,7 +37,11 @@
   <section class="academic-section" id="news">
     <h2><i class="section-heading-icon fas fa-bullhorn" aria-hidden="true"></i>最新动态</h2>
     <ul class="news-list" data-news-list>
+      <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我在<a href="https://www.sjtu.edu.cn/">上海交通大学</a>获评<strong>2025–2026年度三好学生</strong>。</span></div></li>
+      <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我们的团队在“挑战杯”揭榜挂帅比赛中获所在赛道<strong>国家级二等奖</strong>。</span></div></li>
       <li><time>2026.10</time><div><span class="news-category">职业</span><span class="news-title">已抵达<a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a>，正式开始<a href="https://www.nii.ac.jp/en/about/international/mouresearch/">国际实习项目</a>。</span></div></li>
+      <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我在<a href="https://www.sjtu.edu.cn/">上海交通大学</a><a href="https://www.cs.sjtu.edu.cn/">计算机学院</a>获评<strong>2025–2026学年硕士研究生国家奖学金</strong>。</span></div></li>
+      <li><time>2026.09</time><div><span class="news-category">科研</span><span class="news-title">蚂蚁集团内部《信息安全新鲜事儿》分享了我们的工作“<a href="https://arxiv.org/abs/2610.15529">Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems</a>”。</span></div></li>
       <li><time>2026.06</time><div><span class="news-category">职业</span><span class="news-title">加入<a href="https://www.antgroup.com/">蚂蚁集团</a>实习。</span></div></li>
       <li><time>2026.06</time><div><span class="news-category">职业</span><span class="news-title">获得<a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a><a href="https://www.nii.ac.jp/en/about/international/mouresearch/">国际实习项目</a>录取。</span></div></li>
       <li><time>2025.12</time><div><span class="news-category">获奖</span><span class="news-title">所在“马可波罗”战队（指导教师：<a href="https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm">秦勇</a>教授，队长：齐明杰）在<a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">2025腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛</a>“智能体决策算法”赛道包揽中级组与高级组冠军。</span></div></li>
@@ -65,7 +69,7 @@
         <div class="experience-main">
           <h3><a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a></h3>
           <p class="position">访问实习生 · <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII 国际实习项目</a></p>
-          <p><a href="https://cl.nii.ac.jp/">Sugawara 课题组</a>，导师：<a href="https://www.nii.ac.jp/en/faculty/digital_content/sugawara_saku/">Saku Sugawara</a></p>
+          <p><a href="https://cl.nii.ac.jp/">Sugawara 课题组</a>，导师：<a href="https://www.nii.ac.jp/en/faculty/digital_content/sugawara_saku/">Saku Sugawara</a>、<a href="https://xin-von-sun.github.io/">孙欣</a></p>
         </div>
         <div class="experience-meta"><strong>2026.10 – 至今</strong><span>日本，东京</span></div>
       </article>
@@ -83,7 +87,7 @@
         <div class="experience-main">
           <h3><a href="https://www.nankai.edu.cn/">南开大学</a></h3>
           <p class="position">信息安全工学学士 · <a href="https://cyber.nankai.edu.cn/">密码与网络空间安全学院</a></p>
-          <p>专业排名第一</p>
+          <p>导师：<a href="https://cc.nankai.edu.cn/2021/0323/c29222a565030/page.htm">刘哲理</a> · 专业排名第一</p>
         </div>
         <div class="experience-meta"><strong>2021.09 – 2025.06</strong><span>中国，天津</span></div>
       </article>
@@ -204,6 +208,9 @@
     <span class="anchor-alias" id="honors-and-awards"></span>
     <h2><i class="section-heading-icon fas fa-trophy" aria-hidden="true"></i>荣誉与奖励</h2>
     <div class="awards-grid">
+      <div><strong>上海交通大学三好学生</strong><span>2026.10</span></div>
+      <div><strong>“挑战杯”揭榜挂帅比赛国家级二等奖</strong><span>2026.10</span></div>
+      <div><strong>国家奖学金 · 硕士研究生，前1%</strong><span>2026.10</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">2025腾讯开悟人工智能全球公开赛双料冠军</a></strong><span>2025.12</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew">全国颠覆性技术创新大赛全国优胜奖</a></strong><span>2025.11</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">中国青年科技创新“揭榜挂帅”擂台赛擂主（最高奖）</a></strong><span>2025.10</span></div>

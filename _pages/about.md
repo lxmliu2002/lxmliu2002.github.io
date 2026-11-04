@@ -56,7 +56,11 @@ redirect_from:
   <section class="academic-section" id="news">
     <h2><i class="section-heading-icon fas fa-bullhorn" aria-hidden="true"></i>News</h2>
     <ul class="news-list" data-news-list>
+      <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">I was named a <strong>2025–2026 Outstanding Student</strong> of <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>.</span></div></li>
+      <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">Our team won a <strong>National Second Prize</strong> in our track of the China Youth Sci-Tech Innovation Challenge.</span></div></li>
       <li><time>2026.10</time><div><span class="news-category">Career</span><span class="news-title">I have arrived at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics (NII)</a> and started my internship through the <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII International Internship Program</a>.</span></div></li>
+      <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">I was awarded the <strong>2025–2026 National Scholarship for Master's Students</strong> at the <a href="https://www.cs.sjtu.edu.cn/">School of Computer Science</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>.</span></div></li>
+      <li><time>2026.09</time><div><span class="news-category">Research</span><span class="news-title">Our work “<a href="https://arxiv.org/abs/2610.15529">Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems</a>” was shared in Ant Group's internal publication “信息安全新鲜事儿.”</span></div></li>
       <li><time>2026.06</time><div><span class="news-category">Career</span><span class="news-title">I joined <a href="https://www.antgroup.com/">Ant Group</a> as an intern.</span></div></li>
       <li><time>2026.06</time><div><span class="news-category">Career</span><span class="news-title">I have been accepted to the <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII International Internship Program</a> at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics (NII)</a>.</span></div></li>
       <li><time>2025.12</time><div><span class="news-category">Award</span><span class="news-title">Our team "Marco Polo" (advised by Prof. <a href="https://cc.nankai.edu.cn/2021/0323/c29221a565043/page.htm">Yong Qin</a>, led by Mingjie Qi) won both the Intermediate and Advanced tracks of the "Agent Decision-Making Algorithm"(智能体决策算法, in Chinese) category at <a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">the 2025 Tencent Kaiwu AI Global Open Challenge</a>(腾讯开悟人工智能全球公开赛暨第七届全国高校计算机能力挑战赛人工智能赛, in Chinese)!</span></div></li>
@@ -84,7 +88,7 @@ redirect_from:
         <div class="experience-main">
           <h3><a href="https://www.nii.ac.jp/en/">National Institute of Informatics (NII)</a></h3>
           <p class="position">Visiting Intern · <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII International Internship Program</a></p>
-          <p><a href="https://cl.nii.ac.jp/">Sugawara Group</a>, Supervisor: <a href="https://www.nii.ac.jp/en/faculty/digital_content/sugawara_saku/">Saku Sugawara</a></p>
+          <p><a href="https://cl.nii.ac.jp/">Sugawara Group</a>, Supervisors: <a href="https://www.nii.ac.jp/en/faculty/digital_content/sugawara_saku/">Saku Sugawara</a> and <a href="https://xin-von-sun.github.io/">Xin Sun</a></p>
         </div>
         <div class="experience-meta"><strong>2026.10 – Present</strong><span>Tokyo, Japan</span></div>
       </article>
@@ -102,7 +106,7 @@ redirect_from:
         <div class="experience-main">
           <h3><a href="https://www.nankai.edu.cn/">Nankai University</a></h3>
           <p class="position">Bachelor of Information Security · <a href="https://cyber.nankai.edu.cn/">College of Cryptology and Cyber Science</a></p>
-          <p>Ranked 1st in the grade</p>
+          <p>Supervisor: <a href="https://cc.nankai.edu.cn/2021/0323/c29222a565030/page.htm">Zheli Liu</a> · Ranked 1st in the grade</p>
         </div>
         <div class="experience-meta"><strong>2021.09 – 2025.06</strong><span>Tianjin, China</span></div>
       </article>
@@ -224,6 +228,9 @@ redirect_from:
     <span class="anchor-alias" id="honors-and-awards"></span>
     <h2><i class="section-heading-icon fas fa-trophy" aria-hidden="true"></i>Awards &amp; Honors</h2>
     <div class="awards-grid">
+      <div><strong>Outstanding Student of Shanghai Jiao Tong University</strong><span>2026.10</span></div>
+      <div><strong>National Second Prize, China Youth Sci-Tech Innovation Challenge</strong><span>2026.10</span></div>
+      <div><strong>National Scholarship · Master's Students, Top 1%</strong><span>2026.10</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">Double Championship, 2025 Tencent Kaiwu AI Global Open Challenge</a></strong><span>2025.12</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew">National Excellence Award, National Disruptive Technology Innovation Competition</a></strong><span>2025.11</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">Raft Master (Top Prize), China Youth Sci-Tech Innovation Challenge</a></strong><span>2025.10</span></div>
