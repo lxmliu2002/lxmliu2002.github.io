@@ -38,7 +38,7 @@
     <h2><i class="section-heading-icon fas fa-bullhorn" aria-hidden="true"></i>最新动态</h2>
     <ul class="news-list" data-news-list>
       <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我在<a href="https://www.sjtu.edu.cn/">上海交通大学</a>获评<strong>2025–2026年度三好学生</strong>。</span></div></li>
-      <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我们的团队在“挑战杯”揭榜挂帅比赛中获所在赛道<strong>国家级二等奖</strong>。</span></div></li>
+      <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我们的团队在中国青年科技创新“揭榜挂帅”擂台赛中获所在赛道<strong>国家级二等奖</strong>。</span></div></li>
       <li><time>2026.10</time><div><span class="news-category">职业</span><span class="news-title">已抵达<a href="https://www.nii.ac.jp/en/">日本国立信息学研究所（NII）</a>，正式开始<a href="https://www.nii.ac.jp/en/about/international/mouresearch/">国际实习项目</a>。</span></div></li>
       <li><time>2026.10</time><div><span class="news-category">获奖</span><span class="news-title">我在<a href="https://www.sjtu.edu.cn/">上海交通大学</a><a href="https://www.cs.sjtu.edu.cn/">计算机学院</a>获评<strong>2025–2026学年硕士研究生国家奖学金</strong>。</span></div></li>
       <li><time>2026.09</time><div><span class="news-category">科研</span><span class="news-title">蚂蚁集团内部《信息安全新鲜事儿》分享了我们的工作“<a href="https://arxiv.org/abs/2610.15529">Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems</a>”。</span></div></li>
@@ -209,7 +209,7 @@
     <h2><i class="section-heading-icon fas fa-trophy" aria-hidden="true"></i>荣誉与奖励</h2>
     <div class="awards-grid">
       <div><strong>上海交通大学三好学生</strong><span>2026.10</span></div>
-      <div><strong>“挑战杯”揭榜挂帅比赛国家级二等奖</strong><span>2026.10</span></div>
+      <div><strong>中国青年科技创新“揭榜挂帅”擂台赛国家级二等奖</strong><span>2026.10</span></div>
       <div><strong>国家奖学金 · 硕士研究生，前1%</strong><span>2026.10</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">2025腾讯开悟人工智能全球公开赛双料冠军</a></strong><span>2025.12</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew">全国颠覆性技术创新大赛全国优胜奖</a></strong><span>2025.11</span></div>

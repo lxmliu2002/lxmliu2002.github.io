@@ -57,7 +57,7 @@ redirect_from:
     <h2><i class="section-heading-icon fas fa-bullhorn" aria-hidden="true"></i>News</h2>
     <ul class="news-list" data-news-list>
       <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">I was named a <strong>2025–2026 Outstanding Student</strong> of <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>.</span></div></li>
-      <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">Our team won a <strong>National Second Prize</strong> in our track of the China Youth Sci-Tech Innovation Challenge.</span></div></li>
+      <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">Our team won a <strong>National Second Prize</strong> in our track of the China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge.</span></div></li>
       <li><time>2026.10</time><div><span class="news-category">Career</span><span class="news-title">I have arrived at the <a href="https://www.nii.ac.jp/en/">National Institute of Informatics (NII)</a> and started my internship through the <a href="https://www.nii.ac.jp/en/about/international/mouresearch/">NII International Internship Program</a>.</span></div></li>
       <li><time>2026.10</time><div><span class="news-category">Award</span><span class="news-title">I was awarded the <strong>2025–2026 National Scholarship for Master's Students</strong> at the <a href="https://www.cs.sjtu.edu.cn/">School of Computer Science</a>, <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>.</span></div></li>
       <li><time>2026.09</time><div><span class="news-category">Research</span><span class="news-title">Our work “<a href="https://arxiv.org/abs/2610.15529">Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems</a>” was shared in Ant Group's internal publication “信息安全新鲜事儿.”</span></div></li>
@@ -229,11 +229,11 @@ redirect_from:
     <h2><i class="section-heading-icon fas fa-trophy" aria-hidden="true"></i>Awards &amp; Honors</h2>
     <div class="awards-grid">
       <div><strong>Outstanding Student of Shanghai Jiao Tong University</strong><span>2026.10</span></div>
-      <div><strong>National Second Prize, China Youth Sci-Tech Innovation Challenge</strong><span>2026.10</span></div>
+      <div><strong>National Second Prize, China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge</strong><span>2026.10</span></div>
       <div><strong>National Scholarship · Master's Students, Top 1%</strong><span>2026.10</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/biHRc7RqV0iTK9LWwHkQdw">Double Championship, 2025 Tencent Kaiwu AI Global Open Challenge</a></strong><span>2025.12</span></div>
       <div><strong><a href="https://mp.weixin.qq.com/s/pfe9h6hLV06EUMqHCWDPew">National Excellence Award, National Disruptive Technology Innovation Competition</a></strong><span>2025.11</span></div>
-      <div><strong><a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">Raft Master (Top Prize), China Youth Sci-Tech Innovation Challenge</a></strong><span>2025.10</span></div>
+      <div><strong><a href="https://mp.weixin.qq.com/s/MwakT9WBTCswwZXJAHxYkg">Raft Master (Top Prize), China Youth Sci-Tech Innovation “Open Competition for Key Projects” Challenge</a></strong><span>2025.10</span></div>
       <div><strong>Top 10 Outstanding Cases of AI for Sustainable Development</strong><span>2025.07</span></div>
       <div><strong>Outstanding Student Party Member of Nankai University</strong><span>2025.06</span></div>
       <div><strong>Head of Red Flag Party Branch of Nankai University</strong><span>2025.06</span></div>
